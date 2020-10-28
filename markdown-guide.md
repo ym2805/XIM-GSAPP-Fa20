@@ -38,11 +38,11 @@ Use Author-Date parenthetical citations following Chicago Manual of Style conven
 
 To include hyperlinks format them like this [text of link](https://github.com/).  
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.16.01 AM.png)
+![description of image](./XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.16.01 AM.png)
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.15.05 AM.png)
+![description of image](/docs/src/images/Screen Shot 2020-10-28 at 3.15.05 AM.png)
 
 
 Tutorial by the Center for Spatial Research

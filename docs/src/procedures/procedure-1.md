@@ -1,7 +1,7 @@
 ---
-title:  "Template Post: Title of Your Final Project"
-author: "Names Of Everyone In Your Group"
-date:   2020-01-01
+Title:  "Template Post: Title of Your Final Project"
+Tuthor: "Names Of Everyone In Your Group"
+Date:   2020-01-01
 ---
 This is a document that is written in markdown. It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
@@ -42,3 +42,4 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 ![description of image](/XIM-GSAPP-Fa20/images/sample_image.png)
 
 
+Tutorial by the Center for Spatial Research

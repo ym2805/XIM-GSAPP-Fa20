@@ -32,7 +32,7 @@ Or they can just be bullet points:
   - use two spaces
   - to have nested lists
 
-![image](/XIM-GSAPP-Fa20/images/Screen Shot 2020-10-28 at 3.15.23 AM.png)
+![description of image](/XIM-GSAPP-Fa20/images/Screen Shot 2020-10-28 at 3.15.23 AM.png)
 
 Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
 

@@ -58,6 +58,16 @@ module.exports = {
           ]
         }
       ],
+      '/projects/': [
+        {
+          title: 'Final Projects',
+          collapsable: false,
+          children: [
+            '',
+            'using-vue',
+          ]
+        }
+      ],
     }
   },
 

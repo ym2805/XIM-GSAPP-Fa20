@@ -5,7 +5,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'XIM GSAPP - Fall 2020',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -35,32 +35,22 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'Projects',
         link: '/guide/',
       },
       {
-        text: 'Config',
+        text: 'Procedures',
         link: '/config/'
       },
       {
-        text: 'VuePress',
+        text: 'Analysis',
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-      '/projects/': [
-        {
-          title: 'Final Projects',
+          title: 'Projects',
           collapsable: false,
           children: [
             '',

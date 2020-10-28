@@ -9,6 +9,15 @@ To present and turn in your final projects for XIM using markdown. You will incl
 
 [This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
 
+# Please use level 4 headings for major section divisions  
+(make sure to put two spaces after the end of the heading)
+
+## Please use level 4 headings for major section divisions  
+(make sure to put two spaces after the end of the heading)
+
+### Please use level 4 headings for major section divisions  
+(make sure to put two spaces after the end of the heading)
+
 #### Please use level 4 headings for major section divisions  
 (make sure to put two spaces after the end of the heading)
 

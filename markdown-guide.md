@@ -1,17 +1,48 @@
-## XIM-GSAPP-Main Repository
- 
-### Intro to GitHub
+---
+Title:  "Template Post: Title of Your Final Project"
+Tuthor: "Names Of Everyone In Your Group"
+Date:   2020-01-01
+---
+This is a document that is written in markdown. It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-For the rest of the semester, we will be learning the structure of GitHub to document the projects. As a first step, please download create a Gitbut account [here](https://github.com/)
-Each of you should decide what is the best GitHub working method that works best for you. You can download the GitHub App or you can work on the browser version. We can go over both if you want to explore your options. 
+To present and turn in your final projects for XIM using markdown. You will include all of the text along with any images that you produce.  
 
-We will be exploring the following:
-- Accessing the class GitHub Organization
-- Downloading the Repository
-- Working on text editor such as Atom
-- Creating and previewing markdown files including:
-    * Formatting
-    * Adding images
-    * Linking to files
+[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
 
-During this workshop we will do our first pull request and post a "Hello World" MD file that has some formatting, an image and a linked grasshopper file. If there is not enough time in the workshop, it will part of the assignment for the week.
+#### Please use level 4 headings for major section divisions  
+(make sure to put two spaces after the end of the heading)
+
+Write **words in bold** like this.  
+
+Italics are *similar* and are formatted like this.  
+
+To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
+
+See this is now a new paragraph.  
+
+Lists are as follow:
+1. they can be ordered
+1. like this
+1. notice that the numbers are automatically ordered
+  1. use two spaces in front to indent
+
+Or they can just be bullet points:
+- like this
+* or like this
+  - use two spaces
+  - to have nested lists
+
+![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.15.23 AM.png)
+
+Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
+
+To include hyperlinks format them like this [text of link](https://github.com/).  
+
+![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.16.01 AM.png)
+
+To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
+
+![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.15.05 AM.png)
+
+
+Tutorial by the Center for Spatial Research

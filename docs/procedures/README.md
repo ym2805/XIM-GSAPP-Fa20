@@ -1,8 +1,5 @@
----
-Title:  "Template Post: Title of Your Final Project"
-Tuthor: "Names Of Everyone In Your Group"
-Date:   2020-01-01
----
+# Procedure Page
+
 This is a document that is written in markdown. It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
 To present and turn in your final projects for XIM using markdown. You will include all of the text along with any images that you produce.  

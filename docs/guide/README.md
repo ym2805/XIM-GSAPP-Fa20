@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Project 1
 
 ## The standard Lorem Ipsum passage, used since the 1500s

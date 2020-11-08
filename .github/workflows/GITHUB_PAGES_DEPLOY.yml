@@ -23,5 +23,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACTION_TOKEN }}
         TARGET_REPO: XIM-GSAPP/XIM-GSAPP-Fa20
         TARGET_BRANCH: github_pages
-        BUILD_SCRIPT: npm run install && npm run build
+        BUILD_SCRIPT: npm install && npm run build
         BUILD_DIR: ./dist

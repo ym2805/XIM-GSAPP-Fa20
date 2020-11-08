@@ -10,7 +10,7 @@
   "repository": "/XIM-GSAPP-Fa20",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs -d ./dist"
   },
   "license": "MIT",
   "devDependencies": {

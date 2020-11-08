@@ -1,4 +1,5 @@
 const { description } = require('../../package')
+const { getFilePaths } = require("./helpers/path.js");
 
 module.exports = {
 
@@ -35,29 +36,37 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Home',
+        link: '/guide/'
+      },
+      {
         text: 'Projects',
-        link: '/guide/',
+        ariaLabel: 'test dropdown',
+        items: [
+          { text: 'Fall 2020', link: '/projects/Fall_2020/' },
+          { text: 'Spring 2021', link: '/projects/Spring_2021/' }
+        ]
       },
       {
         text: 'Procedures',
-        link: '/config/'
+        link: '/procedures/'
       },
       {
-        text: 'Analysis',
+        text: 'Vue Press Docs',
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Projects',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
+      '/projects/Fall_2020/':getFilePaths('projects/Fall_2020', false, true),
+      '/projects/Spring_2021/':getFilePaths('projects/Spring_2021', false, true),
+      '/procedures/':[
+        '',
+        'procedure_page_tab_1',
+        'procedure_page_tab_2'
       ],
+      '/': [ // fallback must be last in list
+        ''
+      ]
     }
   },
 

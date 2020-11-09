@@ -7,6 +7,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'XIM GSAPP - Fall 2020',
+  base: "/XIM-GSAPP-Fa20/",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -31,7 +32,7 @@ module.exports = {
   themeConfig: {
     repo: '',
     editLinks: false,
-    docsDir: '',
+    docsDir: './',
     editLinkText: '',
     lastUpdated: false,
     nav: [

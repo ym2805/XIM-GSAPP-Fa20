@@ -6,8 +6,8 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'XIM GSAPP - Fall 2020',
-  base: "/XIM-GSAPP-Fa20/",
+  title: 'XIM GSAPP',
+  base: "/XIM-GSAPP/",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */

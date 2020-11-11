@@ -73,12 +73,12 @@ module.exports = {
         'procedure_page_tab_1',
         'procedure_page_tab_2'
       ],
-
+      
       '/tools/': [
         '', 
         'project_document_example',
         'procedure_page_tab_2'
-
+     
       ],
       '/': [ // fallback must be last in list
         ''

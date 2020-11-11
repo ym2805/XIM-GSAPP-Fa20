@@ -3,7 +3,7 @@
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
 
-![description](https://www.dropbox.com/s/i6bi1ime52xufv6/1.jpg?dl=0)
+![description](../images/1.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
@@ -25,8 +25,8 @@ This is a tool that allows us to assess the urban grid and find connections betw
 Add any common problems that could go wrong
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
-https://www.dropbox.com/s/a32bnom7wenjp31/Network_Analysis_Test.3dm?dl=0 Network_Analysis_Test.3dm
-https://www.dropbox.com/s/c0f671jend5ouif/Network_Analysis.gh?dl=0 Network_Analysis.gh
+! [Network_Analysis_Test.3dm](https://www.dropbox.com/s/a32bnom7wenjp31/Network_Analysis_Test.3dm?dl=0)
+[Network_Analysis.gh](https://www.dropbox.com/s/c0f671jend5ouif/Network_Analysis.gh?dl=0)
 link MyTool_legend.png
 link MyTool_legend.ai
 

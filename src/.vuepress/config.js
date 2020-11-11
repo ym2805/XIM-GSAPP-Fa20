@@ -68,13 +68,13 @@ module.exports = {
     sidebar: {
       '/projects/Fall_2020/':getFilePaths('projects/Fall_2020', false, true),
       '/projects/Spring_2021/':getFilePaths('projects/Spring_2021', false, true),
-      '/procedures/':[
+      '/procedures/': [
         '',
         'procedure_page_tab_1',
         'procedure_page_tab_2'
       ],
 
-      '/tools/':[
+      '/tools/': [
         '', 
         'project_document_example',
         'procedure_page_tab_2'

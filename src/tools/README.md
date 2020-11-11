@@ -37,7 +37,7 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 
-! [Analysis Tool Example](../files/Analysis Tool Example.3dm)
+(../files/Analysis Tool Example.3dm)
 link Analysis Tool Example.gh
 link grasshopper_tree.jpg
 link Analysis Tool Example.ai
@@ -49,7 +49,7 @@ link Analysis Tool Example.ai
 
 ### Modeling Standards
 <!--Revise for specific modeling requirements for you analysis to run properly. If useful, add an image of properly vs improperly model geometry-->
-<b>Please follow the following Rhino standards to ensure the proper functionality of the tool:</b>
+<b>Please follow the following Rhino standards to ensure the proper functionality of the tool: </b>
 
 
 <input type="checkbox"> <b>My test massing is a single, simplified, CLOSED polysurface.</b>

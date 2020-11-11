@@ -7,7 +7,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'XIM GSAPP',
-  base: "/XIM-GSAPP/",
+  base: "/XIM-GSAPP-Fa20/",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -41,6 +41,14 @@ module.exports = {
         link: '/guide/'
       },
       {
+        text: 'Tools',
+        link: '/tools/'
+      },
+      {
+        text: 'Buildings',
+        link: '/buildings/'
+      },
+      {
         text: 'Projects',
         ariaLabel: 'test dropdown',
         items: [
@@ -68,7 +76,7 @@ module.exports = {
       '/': [ // fallback must be last in list
         ''
       ]
-    }
+    },
   },
 
   /**

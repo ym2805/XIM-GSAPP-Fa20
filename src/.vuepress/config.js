@@ -66,14 +66,14 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/projects/Fall_2020/':getFilePaths('projects/Fall_2020', false, true),
-      '/projects/Spring_2021/':getFilePaths('projects/Spring_2021', false, true),
+      '/projects/Fall_2020/': getFilePaths('projects/Fall_2020', false, true),
+      '/projects/Spring_2021/': getFilePaths('projects/Spring_2021', false, true),
       '/procedures/': [
         '',
         'procedure_page_tab_1',
         'procedure_page_tab_2'
       ],
-      
+
       '/tools/': [
         '', 
         'project_document_example',

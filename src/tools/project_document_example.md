@@ -2,7 +2,10 @@
 <!--add your title on the first line above-->
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
-<img src=sample_image_1.png height=300px class="border">
+
+![description](../images/tool_example_2.jpg)
+
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
 #### Description
 
@@ -45,7 +48,9 @@ link MyTool_legend.ai
 <input type="checkbox"> <b>Any curved surfaces in the model have been simplified to individual flat planes.</b><br>
 <input type="checkbox"> <b>Any surrounding context has been made into a single, joined mesh.</b>
 
-<img src=icons/comparison.png width=800px class="border">
+![description](../images/tool_example_2.jpg)
+
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
 #### Sources, Calculations + Metrics
 <!--add text and/or images for any sources for you metrics, calculations & equations, assumptions and specific metric output-->
@@ -60,7 +65,9 @@ This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur
 <!--add images and text to describe a use case below-->
 Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<img src=sample_image_2.png width=100% class="border"><br>
+![description](../images/tool_example_2.jpg)
+
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
 Some more text here perhaps.
 

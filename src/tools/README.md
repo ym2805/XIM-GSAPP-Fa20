@@ -1,4 +1,4 @@
-# Visivility Quality Tool
+# Visibility Quality Tool
 <!--add your title on the first line above-->
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
@@ -19,6 +19,7 @@ This tool allows designers to easily track which facades of their design have go
 <b>Step by Step Instructions:</b>
 
 1. Link to epw file
+1. Link to epw file`
 2. Right click on "Context" -> Select Multiple and select building obstructions.
 3. Right click on "Ground" -> Select Multiple and select ground.
 4. Right click on "Ground" -> Select Multiple and select the massing(s) you want to test.

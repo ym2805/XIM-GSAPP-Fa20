@@ -61,7 +61,7 @@ module.exports = {
         link: '/procedures/'
       },
       {
-        text: 'Vue Press Docs',
+        text: 'Class Syllabus',
         link: 'https://docs.google.com/document/d/1btyPJuDrsicFnWscK01lmREq2wmyLQlmC2yKiVvJus8/edit#'
       }
     ],
@@ -73,10 +73,12 @@ module.exports = {
         'procedure_page_tab_1',
         'procedure_page_tab_2'
       ],
-      '/tools/': [
+
+      '/tools/':[
         '', 
-        'project_documentation_example',
+        'project_document_example',
         'procedure_page_tab_2'
+
       ],
       '/': [ // fallback must be last in list
         ''

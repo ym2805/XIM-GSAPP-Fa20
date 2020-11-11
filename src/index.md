@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: /images/XIM_Logo.png
 tagline: X-Information Modeling
 actionText: Home →
 actionLink: /guide/

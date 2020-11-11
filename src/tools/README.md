@@ -1,45 +1,71 @@
-# Procedure Page
+# My Tool Title
+<!--add your title on the first line above-->
 
-This is a document that is written in markdown. It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
+<!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
+<img src=satellite.png height=300px class="border">
 
-To present and turn in your final projects for XIM using markdown. You will include all of the text along with any images that you produce.  
+![description](../images/intro_image.png)
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/intro_image.png) -->
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
+#### Description
 
-Write **words in bold** like this.  
+<!--add your description below-->
+This is a basic description of the tool that is simple enough that anyone can understand that explains what it does and why someone would use it. Make sure to include the actual metric, for example, % of people with access to a park within 5 min, or % of buildings with good views. Keep it to 3 sentences or less
 
-Italics are *similar* and are formatted like this.  
+#### How To Use
 
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
+<b>Step by Step Instructions:</b>
+1. Link to epw file
+2. Right click on "Context" -> Select Multiple and select building obstructions.
+3. Right click on "Ground" -> Select Multiple and select ground.
+4. Right click on "Ground" -> Select Multiple and select the massing(s) you want to test.
+5. Adjust Threshold X,Y,Z
+6. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
 
-See this is now a new paragraph.  
+<b> Troubleshooting </b>
+Add any common problems that could go wrong
 
-Lists are as follow:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
+<!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
+link MyTool_example.3dm
+link MyTool_example.gh
+link MyTool_legend.png
+link MyTool_legend.ai
 
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
+#### Modeling Standards
+<!--Revise for specific modeling requirements for you analysis to run properly. If useful, add an image of properly vs improperly model geometry-->
+<h5>Please follow the following Rhino standards to ensure the proper functionality of the tool:</h5>
+<br>
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.15.23 AM.png)
+<input type="checkbox"> <b>My test massing is a single, simplified, CLOSED polysurface.</b>
+  <li>Try "SelClosedSrf" to make sure it is closed.</li>
+<input type="checkbox"> <b>My model is oriented to True North.</b>
+  <li>Re-orient if it was rotated off of North at the start of the project.</li>
+<input type="checkbox"> <b>Any groups or blocks in the model have been ungrouped/exploded.</b>
+  <li>Try "SelBlockInstance" and "SelGroup" to make sure.</li>
+<input type="checkbox"> <b>My model is set to either Meters or Feet (not mm or in).</b> <br>
+<input type="checkbox"> <b>My model is free of overlapping, coplanar, or intersecting geometry.</b><br>
+<input type="checkbox"> <b>Any obstructions around the space have been modeled (trees, topography, buildings).</b><br>
+<input type="checkbox"> <b>Any curved surfaces in the model have been simplified to individual flat planes.</b><br>
+<input type="checkbox"> <b>Any surrounding context has been made into a single, joined mesh.</b>
 
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
+<img src=icons/comparison.png width=800px class="border">
 
-To include hyperlinks format them like this [text of link](https://github.com/).  
+#### Sources, Calculations + Metrics
+<!--add text and/or images for any sources for you metrics, calculations & equations, assumptions and specific metric output-->
+This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.16.01 AM.png)
+#### Limitations & Context
+<!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
 
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
+This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.15.05 AM.png)
+#### Examples
+<!--add images and text to describe a use case below-->
+Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+<img src=sample_image_2.png width=100% class="border"><br>
 
-Tutorial by the Center for Spatial Research
+Some more text here perhaps.
+
+<b> More project examples here: </b>

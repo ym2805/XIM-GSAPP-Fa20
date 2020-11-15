@@ -57,8 +57,8 @@ module.exports = {
         ]
       },
       {
-        text: 'Procedures',
-        link: '/procedures/'
+        text: 'Types',
+        link: '/types/'
       },
       {
         text: 'Class Syllabus',
@@ -68,7 +68,7 @@ module.exports = {
     sidebar: {
       '/projects/Fall_2020/':getFilePaths('projects/Fall_2020', false, true),
       '/projects/Spring_2021/':getFilePaths('projects/Spring_2021', false, true),
-      '/procedures/':[
+      '/types/':[
         '',
         'procedure_page_tab_1',
         'procedure_page_tab_2'

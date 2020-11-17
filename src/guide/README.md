@@ -9,7 +9,7 @@ Date:   2020-01-01
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/intro_image.png) -->
 
-## Overview
+## Overview Overall
 
 Data is the language of cities. This data is inherently spatial, and as designers and planners we are uniquely suited to leverage it for informed decision making, and the improvement of buildings, public spaces, and cities. Accordingly, this course introduces students to computational design through a unique data-driven workflow for design and analysis using rhino and grasshopper. 
 

@@ -16,7 +16,7 @@ Required inputs: Ex, Lots, FAR/ Density, attractor geometry, etc. Dynamic vs sta
 
 ### Type Rules 
 
-1. 1 to 3 sentence describing the procedural rules 
+1. 1 to 3 sentences describing the procedural rules 
 1. Add image that shows the range of variability for the type. Try to make it explanatory of what rules are, not just what the output looks like.
 
 Add image here to further illustrate your point.

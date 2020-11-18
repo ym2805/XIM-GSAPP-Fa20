@@ -4,7 +4,7 @@
 
 Intro/Representative image here
 
-![description](../images/gh_procedural_type_ex4)
+![description](../images/gh_procedural_type_ex4.jpg)
 
 ### Description: 1-3 Sentences of What the Type is
 

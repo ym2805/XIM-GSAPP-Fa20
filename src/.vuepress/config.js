@@ -70,8 +70,8 @@ module.exports = {
       '/projects/Spring_2021/':getFilePaths('projects/Spring_2021', false, true),
       '/types/':[
         '',
-        'procedure_page_tab_1',
-        'procedure_page_tab_2'
+        'type_tab_1',
+        'type_tab_2'
       ],
 
       '/tools/':[

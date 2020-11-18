@@ -1,45 +1,52 @@
-# Procedure Page
+# Courtyard Building Typology Procedural Tool
 
-This is a document that is written in markdown. It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
+![description](../images/gh_procedural_type_ex4.jpg)
 
-To present and turn in your final projects for XIM using markdown. You will include all of the text along with any images that you produce.  
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/gh_procedural_pype_ex4.jpg) -->
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+### Type Description 
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
+These collection of structures explore the ways in which the courtyard building typology can be built and modified. This Grasshopper procedural type helps divide the lots into different groups to create a horizontal and vertical courtyard as well as solid structure, all following user inputs and pre-set procedural rules.
 
-Write **words in bold** like this.  
+### Required inputs 
 
-Italics are *similar* and are formatted like this.  
+1. Dynamic: Lots and FAR
+These are the dimensions that will determine what type of structure will be courtyards or simply solid buildings. 
 
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
+1. Static: Floor to Floor Height
 
-See this is now a new paragraph.  
+### Type Rules 
 
-Lists are as follow:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
+1. If the length of the smallest face of the courtyard is more than 85% the width of the bay of the courtyard building, then the building type should remain a typical courtyard building. 
+1. If any of the face of the structure on the x-Axis can accomodate a courtyard by following the parameter set in the first rule, then the structure will have a horizontal structure. 
+1. If the structure size and height cannot accomodate a vertical or horizontal (z-axis facade) courtyard, then the structure should remain as solid.
 
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
+![description](../images/gh_procedural_type_ex3.jpg)
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.15.23 AM.png)
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/gh_procedural_type_ex3.jpg) -->
 
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
+### Use Type If: 
 
-To include hyperlinks format them like this [text of link](https://github.com/).  
+1. Your team is interested in exploring how countyard typology could be used within your project.
+1. Your team is interested in including vertical and horizontal courtyards.
+1. If your team want to conduct studies of sunlight and wind, for example, based on the courtyard building typology.
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.16.01 AM.png)
+### Not Recommended to Use Type If:
 
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
+1. Your team is exploring more complex geometries because the end result might not meet the procedural rules and the end result might not be what you want.
+1. The density target of your project is very high.
+1. The height of your structures is very low.
+1. Your team is exploring different building typologoes other than courtyard typology.
 
-![description of image](/XIM-GSAPP-Fa20/docs/src/images/Screen Shot 2020-10-28 at 3.15.05 AM.png)
+![description](../images/gh_procedural_type_combo.jpg)
 
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/gh_procedural_type_ex3.jpg) -->
 
-Tutorial by the Center for Spatial Research
+### What to Know & Limitations 
+
+1. Courtyard offset in cluster. If you want to have each of the courtyard to offset separatelym then, you will have to modify the definition of the type.
+1. This procedural type only supports building bay depth suitable for single loaded corridor residential or side loaded office.
+
+### Required Plugins 
+
+1. No specific plugins necessary

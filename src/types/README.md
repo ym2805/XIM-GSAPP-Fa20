@@ -1,4 +1,4 @@
-# Courtyard Building Typology Procedural Tool
+# Courtyard Building Typology Procedural Type
 
 ![description](../images/gh_procedural_type_ex4.jpg)
 

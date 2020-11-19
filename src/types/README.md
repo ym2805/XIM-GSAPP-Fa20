@@ -53,14 +53,6 @@ These are the dimensions that will determine what type of structure will be cour
 
 ### Required Files
 
-[View_Tool](tool.gh)
-
-[https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/files](/Analysis Tool Example.gh)
-
-[XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/files](/Analysis Tool Example.gh)
-
 [Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.3dm)
 
 [Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.gh)
-
-https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.3dm

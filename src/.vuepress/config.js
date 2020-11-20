@@ -70,7 +70,7 @@ module.exports = {
       '/projects/Spring_2021/':getFilePaths('projects/Spring_2021', false, true),
       '/types/':[
         '',
-        'type_tab_1',
+        'Type_Documentation_Temple',
         'type_tab_2'
       ],
 

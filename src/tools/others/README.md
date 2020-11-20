@@ -1,4 +1,4 @@
-# Visivility Quality Tool
+# Other_Tool Name
 <!--add your title on the first line above-->
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
@@ -10,9 +10,8 @@
 ### Description
 
 <!--add your description below-->
-This tool is used to evalutate the **visibility** from a selected set of buildings on the model to the nearest buildings around the entire perimeter of the site. The quality of visibility is display through a color gradient that ranges from violet to gray.
 
-This tool allows designers to easily track which facades of their design have good views to nearby parks, or landmark in a complex urban environment. In **design more** the tool runs in near real time and can be useful to help designers shape massing to target specific views. 
+This is a basic description of the tool that is simple enough that for anyone to understand what the tool does and why someone would use it. Keep it to 3 sentences or less.
 
 ### How To Use
 

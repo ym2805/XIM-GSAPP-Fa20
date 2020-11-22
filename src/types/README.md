@@ -1,4 +1,4 @@
-# Courtyard Building Typology Procedural Type
+# Courtyard Type For Any Lot Size
 
 ![description](../images/gh_procedural_type_ex4.jpg)
 

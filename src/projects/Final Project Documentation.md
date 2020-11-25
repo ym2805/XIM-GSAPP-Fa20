@@ -14,7 +14,8 @@ This section will also include the ***daring questions*** that you asked during 
 
 
 For example, a daring question would be:
->```
+
+```
 “What if all park space was equitably distributed?”
 ```
 
@@ -41,7 +42,7 @@ These section should be descriptive of how your team is setting up goals and met
 This section should be a summary get the reader excited about understanding your project by stating the outcome up front. The rest of the project documentation/presentation will be focus on illustrating how you got there.
 
 
-> ```
+```
 For example,
 “Through the computational design model we have identified X and Y trends that allows the city
 to address Z while achieving or increasing A and B.”
@@ -111,7 +112,7 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 
 This section should be descriptive of your team's input ranges, the reasoning why you picked that range and explanation of what you left out. Write -- sentences to explain.
 
-> ```
+```
 For example,
 "I’m varying this input in this range because of X."
 ```
@@ -134,7 +135,7 @@ This section should be descriptive of your team's design exploration, initial in
 
 Additionally, teams will be required to document their live demo in GitHub with annotated, sequential screenshots replicating the sequence of the live demonstration. Show how you can use Scout to explore scenarios or answer specific questions using the parallel coordinates chart.
 
-> ```
+```
 For example,
 “What if’s . . .”
 ```

@@ -6,7 +6,7 @@
 This image should be an ***introduction image*** that clearly describes your computational design model.
 *Please include a short caption.*
 
-#### Thesis Statement and Daring Question
+### Thesis Statement and Daring Question
 
 This should be a detailed description of your project. This statement should explain central thesis of your computational model. Write -- sentences to explain.
 
@@ -28,7 +28,7 @@ This image should be a ***photo collage*** that is illustrative of the outcome o
 *Please include a short caption describing your college.*
 
 
-#### Goals and Metrics
+### Goals and Metrics
 
 These section should be descriptive of how your team is setting up goals and metrics to determine success.
 
@@ -37,7 +37,7 @@ These section should be descriptive of how your team is setting up goals and met
 1. How it relates to your goals?
 
 
-#### Summary of Conclusions and Takeaways
+### Summary of Conclusions and Takeaways
 
 This section should be a summary get the reader excited about understanding your project by stating the outcome up front. The rest of the project documentation/presentation will be focus on illustrating how you got there.
 
@@ -63,7 +63,7 @@ Explain why the outcome of your model is important by highlighting:
 This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, rules and metrics***.
 *Please include a short caption.*
 
-#### Overview of Model:
+### Overview of Model:
 
 Make a clear, easily readable diagram that describes your computational model. Include:
 1. Inputs,
@@ -76,7 +76,7 @@ Make a clear, easily readable diagram that describes your computational model. I
 
 *Please include a short caption describing your diagram.*
 
-#### Analysis Tools:
+### Analysis Tools:
 
 Describe how you are deriving your metric. Write -- sentences to explain.
 
@@ -93,7 +93,7 @@ Describe how you are deriving your metric. Write -- sentences to explain.
 
 *Please include a short caption describing your diagram.*
 
-#### Procedural Types
+### Procedural Types
 
 This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. Write -- sentences to explain.
 
@@ -108,7 +108,7 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 *Please include a short caption describing your diagram.*
 
 
-#### Design Space
+### Design Space
 
 This section should be descriptive of your team's input ranges, the reasoning why you picked that range and explanation of what you left out. Write -- sentences to explain.
 
@@ -127,7 +127,7 @@ Please include simple diagram(s) that illustrate extremes of the design space, a
 
 ## Analysis and Results
 
-#### Scout as a Tool
+### Scout as a Tool
 
 This section should be descriptive of your team's design exploration, initial insights and trade-offs in relationship to Scout. Write -- sentences to explain.
 
@@ -140,7 +140,7 @@ For example,
 “What if’s . . .”
 ```
 
-#### Summarize
+### Summarize
 
 This section should be focused on describing specific trends, insights and trade-offs. You can annotate right on top of Scout screenshots or translate insights to diagrams when documenting your process in GitHub.
 
@@ -148,7 +148,7 @@ This section should be focused on describing specific trends, insights and trade
 
 *Please include a short caption describing your diagram.*
 
-#### Conclusions and Next Steps
+### Conclusions and Next Steps
 
 For the concluding text of your computational design model documentation, think about the following questions as you reinforce the reason why the results your team's model should implemented.
 

@@ -18,6 +18,8 @@ D. Bar/ Barbeque Area space
 
 E. Dog Park/ Tower on Podium
 
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/types/Tower_with_Balconies/tower%20with%20void.png
+)  High Density/ Bar/ tower with void
 
 
 ![description](https://github.com/tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121214732.png
@@ -33,13 +35,13 @@ Low Density/ Outdoor eating space, outdoor performance
 
 
 ### Required inputs 
-Urban Popilation Density: High, Mid, Low
+Urban Popilation Density: High
 
-Streen Pattern: Loose Grid, Organic, Radial
+Streen Pattern: Organic, Radial
 
-Public Space SQ.ft per households: 28, 113, 254
+Public Space SQ.ft per households: 28
 
-Street Width: 60, 70, 80
+Street Width: 60
 
 
 ### Type Rules

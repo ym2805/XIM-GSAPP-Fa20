@@ -83,6 +83,6 @@ If the street width oversized our too narrow, the running will fail, please chec
 
 ### Required Files
 
-[Rhino File](https://github.com/tterrytang/the-great-outdoor/blob/main/The%20Great%20Outdoors%20(1).3dm)
+[Rhino File]
 
-[Grasshopper File](https://github.com/tterrytang/the-great-outdoor/blob/main/great%20out%20door%20building%20types.gh)
+[Grasshopper File](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/types/Tower_with_Balconies/Github_Procedure_1124.gh)

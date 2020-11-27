@@ -8,7 +8,7 @@
 
 This collection of structures explores the ways in which the tower with balconies building typology can be built and modified. This Grasshopper procedural type helps optimize the basic podium curve into 4-sides rectangular tower with balconies for optimal daylight, all following user inputs and pre-set procedural rules.
 
-![description](../images/P-BATTERY.png)
+![description](../XIM-GSAPP-Fa20/src/images/P-BATTERY.png)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-BATTERY.png) -->
 

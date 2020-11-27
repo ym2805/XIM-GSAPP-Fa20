@@ -18,7 +18,7 @@ This collection of structures explores the ways in which the tower with balconie
 (1)Base Curves: The input data structure must be Grafted.
 (2)FAR: The input data will determine the density of the building.
 
-2.Static: 
+2. Static: 
 (1)Tower Footprint One Side Set Back Ratio: The data range should be between 0 and 0.5.
 
 ![description](../images/P-XIM - SETBACK.jpg)
@@ -65,8 +65,8 @@ This collection of structures explores the ways in which the tower with balconie
 
 ### What to Know & Limitations 
 
-1.Tower Footprint in cluster. If your tower has less than 4 sides then, you will have to modify the definition of the procedural type. The current type only supports the tower with greater than or equal to 4 sides, and optimize the one with more than 4 sides to 4 sides.
-2.Balcony Footprint in cluster. If your tower want to conduct the sunlight based on the urban context, you will have to modify the definition of sunlight vector.
+1. Tower Footprint in cluster. If your tower has less than 4 sides then, you will have to modify the definition of the procedural type. The current type only supports the tower with greater than or equal to 4 sides, and optimize the one with more than 4 sides to 4 sides.
+2. Balcony Footprint in cluster. If your tower want to conduct the sunlight based on the urban context, you will have to modify the definition of sunlight vector.
 
 ![description](../images/P-XIM - 4 sides.jpg)
 

@@ -11,10 +11,13 @@ This collection of structures explores the ways in which the  tower with balconi
 ### Required inputs 
 
 1. Dynamic: 
+
 (1)Base Curves: The input data structure must be Grafted.
+
 (2)FAR: The input data will determine the density of the building.
 
 2. Static: 
+
 (1)Tower Footprint One Side Set Back Ratio: The data range should be between 0 and 0.5.
 
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20SETBACK.jpg)
@@ -28,7 +31,9 @@ This collection of structures explores the ways in which the  tower with balconi
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20Interval.jpg)
 
 (4)Floor to Floor Height
+
 (5)Podium Height
+
 (6)Balcony Depth
 
 ### Type Rules 

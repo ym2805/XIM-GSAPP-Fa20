@@ -1,16 +1,12 @@
 # Tower with Balconies for Optimal Daylight
 
-![description](../images/P-XIM - MAIN PHOTO.jpg)
-
-<!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-XIM - MAIN PHOTO.jpg) -->
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20MAIN%20PHOTO.jpg)
 
 ### Type Description 
 
-This collection of structures explores the ways in which the tower with balconies building typology can be built and modified. This Grasshopper procedural type helps optimize the basic podium curve into 4-sides rectangular tower with balconies for optimal daylight, all following user inputs and pre-set procedural rules.
+This collection of structures explores the ways in which the  tower with balconies for optimal daylight can be built and modified. This Grasshopper procedural type helps optimize the basic podium curve into 4-sides rectangular tower, all following user inputs and pre-set procedural rules.
 
-![description](../XIM-GSAPP-Fa20/src/images/P-BATTERY.png)
-
-<!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-BATTERY.png) -->
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-BATTERY.png)
 
 ### Required inputs 
 
@@ -21,21 +17,15 @@ This collection of structures explores the ways in which the tower with balconie
 2. Static: 
 (1)Tower Footprint One Side Set Back Ratio: The data range should be between 0 and 0.5.
 
-![description](../images/P-XIM - SETBACK.jpg)
-
-<!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-XIM - SETBACK.jpg) -->
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20SETBACK.jpg)
 
 (2)Tower Footprint General Offset Ratio: The data should smaller than One Side Set Back Ratio.
 
-![description](../images/P-XIM - OFFSET.jpg)
-
-<!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-XIM - OFFSET.jpg) -->
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20OFFSET.jpg)
 
 (3)Interval Floor Number: This parameter determines how many floors generate a balcony for a group.
 
-![description](../images/P-XIM - Interval.jpg)
-
-<!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-XIM - Interval.jpg) -->
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20Interval.jpg)
 
 (4)Floor to Floor Height
 (5)Podium Height
@@ -47,9 +37,7 @@ This collection of structures explores the ways in which the tower with balconie
 2. The current balcony direction is determined by the sunlight direction which should related to the context, and the default direction is due south (0, -1). The specific operation of this part can be found in the cluster of "balcony footprint".
 3. The battery calculated the angle between the normal direction of the base tower outline and the sunlight direction, arranged them in pairs according to the order of the angle, and set the balcony offset on the direction with sufficient sunlight.
 
-![description](../images/P-XIM - rule.jpg)
-
-<!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-XIM - rule.jpg) -->
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20rule.jpg)
 
 ### Use Type If: 
 
@@ -65,12 +53,12 @@ This collection of structures explores the ways in which the tower with balconie
 
 ### What to Know & Limitations 
 
-1. Tower Footprint in cluster. If your tower has less than 4 sides then, you will have to modify the definition of the procedural type. The current type only supports the tower with greater than or equal to 4 sides, and optimize the one with more than 4 sides to 4 sides.
+1. Tower Footprint in cluster. If your tower has less than 4 sides (like triangle shape), it would not work. 
+   The current type only supports the tower with greater than or equal to 4 sides, and optimize the one with more than 4 sides to 4 sides.
 2. Balcony Footprint in cluster. If your tower want to conduct the sunlight based on the urban context, you will have to modify the definition of sunlight vector.
 
-![description](../images/P-XIM - 4 sides.jpg)
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%204%20sides.jpg)
 
-<!-- ![description of image](/XIM-GSAPP-Fa20/src/images/P-XIM - 4 sides.jpg) -->
 
 ### Required Plugins 
 

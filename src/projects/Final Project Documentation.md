@@ -151,3 +151,8 @@ For the concluding text of your computational design model documentation, think 
 1. How do you recommend the results of your model be used? Who should learn from this?
 1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
 1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
+
+
+### Overall format and flow of text:
+
+For each of the sessions, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each session needs to stand alone but it should not be super text heavy. Someone should be able to read through your post in 10 - 15 minutes.

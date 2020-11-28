@@ -1,17 +1,14 @@
 # (Project Title)
 
-### Intro
+***Subtitle*** One sentence that summarize you project.
 
 ![description](../images/Final_Project_Temple_Intro_Image.png)
 This image should be an ***introduction image*** that clearly describes your computational design model.
 *Please include a short caption.*
 
-### Thesis Statement and Daring Question
+## Project Overview
 
-This should be a detailed description of your project. This statement should explain central thesis of your computational model. Write -- sentences to explain.
-
-This section will also include the ***daring questions*** that you asked during the development of your computational model.
-
+Clearly state both the problem or proposal that your project attempts to address AND a an explanation of your hypothesis -- ie how you project is addressing the problem. This can incorporate the ***daring questions*** that you asked during the development of your computational model. Feel free to deviate from the Mad Libs structure, which may have now be restrictive.
 
 For example, a daring question would be:
 
@@ -23,7 +20,6 @@ Then, you would take a google earth image of Manhattan and photoshop buildings i
 
 
 ![description](../images/Final_Project_Temple_Collage_Image.jpg)
-
 This image should be a ***photo collage*** that is illustrative of the outcome of your project.
 *Please include a short caption describing your college.*
 
@@ -36,10 +32,11 @@ These section should be descriptive of how your team is setting up goals and met
 1. Why you are measuring it?
 1. How it relates to your goals?
 
+i.e. how did you set up your project to measure performance and what did you expect to find?
 
-### Summary of Conclusions and Takeaways
+### What Did We Discover?
 
-This section should be a summary get the reader excited about understanding your project by stating the outcome up front. The rest of the project documentation/presentation will be focus on illustrating how you got there.
+At a high-level statement of what your conclusions was. This engages the audience and helps them better follow along as you build up to how you got there. It makes them want to pay attention.
 
 
 ```
@@ -48,50 +45,40 @@ For example,
 to address Z while achieving or increasing A and B.”
 ```
 
-Explain why the outcome of your model is important by highlighting:
-1. Background research for your prompt
-1. Creating a future context
-1. Process of how your team developed custom metrics
+Explain why the outcome of your model is important by using your:
+1. Background research of your problem and proposal
+1. Creating a future context / Exploration and transformation of NYC into a future condition
 1. Urban data mapping
-1. Exploration and transformation of NYC into a future condition (if needed)
+Not all projets will cover all the above topics, just use what is needed to explain why what you are addressing matters.
 
 <br />
 
 ## Computational Design Model
 
 ![description](../images/PT_CompDesignModelDiagram.png)
-This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, rules and metrics***.
+This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
 *Please include a short caption.*
 
-### Overview of Model:
 
-Make a clear, easily readable diagram that describes your computational model. Include:
-1. Inputs,
-1. Procedural types
-1. Size
-1. Metrics
-
-
-![description](../images/PT_DiagramRangeInput.png)
-
+### Analysis Tools
+![description](../images/PT_SummaryAnalysisTool.png)
 *Please include a short caption describing your diagram.*
 
-### Analysis Tools:
+![description](../images/PT_AnalysisToolSummary.png)
+*Please include a short caption describing your diagram.*
 
 Describe how you are deriving your metric. Write -- sentences to explain.
 
-1. Have a summary slide/section with each analysis tool.
-1. Use a slide/section for each custom tool that requires further explanation on how it works.
+1. Have a summary image with each analysis tool (examples above)
+1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
+
+#### Custom Tool Name
+![description](../images/PT_ExampleToolExplanation.png)
+*Please include a short caption describing your diagram.*
 
 [Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/tools) to any packaged analysis tools you have documented and posted.
 
-![description](../images/PT_ExampleToolExplanation.png)
 
-*Please include a short caption describing your diagram.*
-
-![description](../images/PT_SummaryAnalysisTool.png)
-
-*Please include a short caption describing your diagram.*
 
 ### Procedural Types
 
@@ -103,6 +90,7 @@ This section focuses on the rules you have defined, range of variability and an 
 *Please include a short caption describing your diagram.*
 
 ![description](../images/PT_DiagramProceduralTypeSketch.png)
+*Please include a short caption describing your diagram.*
 
 It is encouraged to use sketching when illustrating rules and types of your computational design model.
 *Please include a short caption describing your diagram.*
@@ -117,19 +105,20 @@ For example,
 "I’m varying this input in this range because of X."
 ```
 
-Please include simple diagram(s) that illustrate extremes of the design space, animated gif of design space and computational model table.
+Please include simple diagram(s) that illustrate extremes of the design space, animated gif of design space and computational model table. The diagrams and animations should be CLEAR and SIMPLE. These can be animations showing how your model changes one variable at a time, still images explaining the variables, or other drawing types, but you must break down the complexity of your project into intelligible pieces.
 
-![description](../images/PT_AnalysisToolSummary.png)
 
+
+![description](../images/PT_DiagramRangeInput.png)
 *Please include a short caption describing your diagram.*
 
 <br />
 
 ## Analysis and Results
 
-### Scout as a Tool
+### Exploring the Design Space
 
-This section should be descriptive of your team's design exploration, initial insights and trade-offs in relationship to Scout. Write -- sentences to explain.
+This section should be descriptive of your team's design exploration and initial insights using Scout. Write -- sentences to explain.
 
 ***Each team will be conducting a live demonstration of your model in Scout when presenting final project.***
 
@@ -140,13 +129,20 @@ For example,
 “What if’s . . .”
 ```
 
-### Summarize
+### Results
 
-This section should be focused on describing specific trends, insights and trade-offs. You can annotate right on top of Scout screenshots or translate insights to diagrams when documenting your process in GitHub.
+Were certain metrics inconclusive? Were there unexpected correlations? What are the GENERAL trends in your data? What are your SPECIFIC insights/findings? You can annotate right on top of Scout screenshots or translate insights to diagrams. How does performance (metrics) relate to form (inputs)?
 
 ![description](../images/PT_PerformanceSummarySlide.png)
-
 *Please include a short caption describing your diagram.*
+
+### Design Comparison
+
+Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparision image and key take-aways.
+
+Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data. 
+
+Zoom in to talk about the best option(s) and the worst. Take a few images to detail why these options perform well or poorly. The point of this entire exercise is to create a data-driven methodology for making DECISIONS, so choose which option or options are the best and defend those choices.
 
 ### Conclusions and Next Steps
 

@@ -1,6 +1,6 @@
 # Beneficial Daylight for Facades Analysis Tool
 
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/T-MAIN%20PHOTO.jpg)
+![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/T-MAIN%20PHOTO2.jpg)
 
 ### Tool Description 
 

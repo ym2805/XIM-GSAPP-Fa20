@@ -138,7 +138,7 @@ Were certain metrics inconclusive? Were there unexpected correlations? What are 
 
 ### Design Comparison
 
-Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparision image and key take-aways.
+Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparision image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example it could be the existing context, or an option with your target density but with traditional development patterns (ie densification without design innovation.)
 
 Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data. 
 

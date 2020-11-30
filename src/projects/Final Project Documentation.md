@@ -1,4 +1,4 @@
-# (Project Title)
+# Project Title
 
 ***Subtitle*** One sentence that summarize you project.
 
@@ -6,7 +6,13 @@
 This image should be an ***introduction image*** that clearly describes your computational design model.
 *Please include a short caption.*
 
-## Project Overview
+<br />
+
+***
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Project Overview
+
+<br />
 
 Clearly state both the problem that your project addresses AND an explanation of your hypothesis -- i.e., how the project might address the problem. This can incorporate the ***daring questions*** that you asked during the development of your computational model. Feel free to deviate from the Mad Libs structure, which may have now become restrictive.
 
@@ -53,7 +59,11 @@ Not all projets will cover all the above topics. Use what is needed to explain w
 
 <br />
 
-## Computational Design Model
+***
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Computational Design Model
+
+<br />
 
 ![description](../images/PT_CompDesignModelDiagram.png)
 This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
@@ -114,7 +124,11 @@ Please include simple diagram(s) that illustrate extremes of the design space, a
 
 <br />
 
-## Analysis and Results
+***
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Analysis and Results
+
+<br />
 
 ### Exploring the Design Space
 

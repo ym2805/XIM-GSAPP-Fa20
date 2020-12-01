@@ -1,4 +1,4 @@
-# (Project Title)
+# Project Title
 
 ***Subtitle*** One sentence that summarize you project.
 
@@ -6,11 +6,17 @@
 This image should be an ***introduction image*** that clearly describes your computational design model.
 *Please include a short caption.*
 
-## Project Overview
+<br />
 
-Clearly state both the problem or proposal that your project attempts to address AND a an explanation of your hypothesis -- ie how you project is addressing the problem. This can incorporate the ***daring questions*** that you asked during the development of your computational model. Feel free to deviate from the Mad Libs structure, which may have now be restrictive.
+***
 
-For example, a daring question would be:
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Project Overview
+
+<br />
+
+Clearly state both the problem that your project addresses AND an explanation of your hypothesis -- i.e., how the project might address the problem. This can incorporate the ***daring questions*** that you asked during the development of your computational model. Feel free to deviate from the Mad Libs structure, which may have now become restrictive.
+
+For example, a daring question could be:
 
 ```
 “What if all park space was equitably distributed?”
@@ -30,30 +36,34 @@ These section should be descriptive of how your team is setting up goals and met
 
 1. What are you measuring?
 1. Why you are measuring it?
-1. How it relates to your goals?
+1. How does it relate to your goals?
 
 i.e. how did you set up your project to measure performance and what did you expect to find?
 
 ### What Did We Discover?
 
-At a high-level statement of what your conclusions was. This engages the audience and helps them better follow along as you build up to how you got there. It makes them want to pay attention.
+At a high-level, state your conclusions. This engages the audience and helps them better follow along as you build up to how you got there. It makes them want to pay attention.
 
 
 ```
 For example,
-“Through the computational design model we have identified X and Y trends that allows the city
+“Through the computational design model, we have identified X and Y trends that allows the city
 to address Z while achieving or increasing A and B.”
 ```
 
 Explain why the outcome of your model is important by using your:
 1. Background research of your problem and proposal
-1. Creating a future context / Exploration and transformation of NYC into a future condition
+1. Future context exploration and transformation of NYC into an hypothetical condition
 1. Urban data mapping
-Not all projets will cover all the above topics, just use what is needed to explain why what you are addressing matters.
+Not all projets will cover all the above topics. Use what is needed to explain why the issues your project addresses matter.
 
 <br />
 
-## Computational Design Model
+***
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Computational Design Model
+
+<br />
 
 ![description](../images/PT_CompDesignModelDiagram.png)
 This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
@@ -114,7 +124,11 @@ Please include simple diagram(s) that illustrate extremes of the design space, a
 
 <br />
 
-## Analysis and Results
+***
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Analysis and Results
+
+<br />
 
 ### Exploring the Design Space
 
@@ -122,7 +136,7 @@ This section should be descriptive of your team's design exploration and initial
 
 ***Each team will be conducting a live demonstration of your model in Scout when presenting final project.***
 
-Additionally, teams will be required to document their live demo in GitHub with annotated, sequential screenshots replicating the sequence of the live demonstration. Show how you can use Scout to explore scenarios or answer specific questions using the parallel coordinates chart.
+Additionally, teams will be required to document their live demo on GitHub with annotated, sequential screenshots replicating the sequence of the live demonstration. Show how you can use Scout to explore scenarios or answer specific questions using the parallel coordinates chart.
 
 ```
 For example,
@@ -138,7 +152,7 @@ Were certain metrics inconclusive? Were there unexpected correlations? What are 
 
 ### Design Comparison
 
-Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparision image and key take-aways.
+Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparison image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example, it could be the existing context or an option with your target density but with traditional development patterns (i.e., densification without design innovation.)
 
 Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data. 
 
@@ -155,4 +169,4 @@ For the concluding text of your computational design model documentation, think 
 
 ### Overall format and flow of text:
 
-For each of the sessions, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each session needs to stand alone but it should not be super text heavy. Someone should be able to read through your post in 10 - 15 minutes.
+For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.

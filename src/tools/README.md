@@ -25,11 +25,11 @@ This is a basic description of the tool that is simple enough that for anyone to
 5. Adjust Threshold X,Y,Z
 6. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
 
-![description](../images/grasshopper_tree.jpg)
+![description](../images/grasshopper_tree.JPG)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/grasshopper_tree.JPG) -->
 
-<b> Troubleshooting </b>
+#### Troubleshooting
 
 Make sure to properly load the context as it is crucial for to test visibility quality
 
@@ -38,7 +38,7 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 
 
-<b> Required Files <b>
+#### Required Files
 
 [Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/files/Analysis%20Tool%20Example.3dm)
 
@@ -81,7 +81,9 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
 ### Sources, Calculations + Metrics
 <!--add text and/or images for any sources for you metrics, calculations & equations, assumptions and specific metric output-->
-This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<p>This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
 
 ### Limitations & Context
 <!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
@@ -90,6 +92,7 @@ This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur
 
 ### Examples
 <!--add images and text to describe a use case below-->
+
 Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 

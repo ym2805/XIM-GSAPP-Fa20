@@ -37,13 +37,18 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 
-(../files/Analysis Tool Example.3dm)
-link Analysis Tool Example.gh
-link grasshopper_tree.jpg
-link Analysis Tool Example.ai
-(../files/Analysis Tool Example.3dm)
 
-![description](../images/tool_example_4_.jpg)
+<b> Required Files <b>
+
+[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/files/Analysis%20Tool%20Example.3dm)
+
+[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/files/Analysis%20Tool%20Example.gh)
+
+
+![description](../images/tool_example_4.jpg)
+
+
+<br />
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_4_.jpg) -->
 

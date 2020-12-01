@@ -69,7 +69,7 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
   <li>Try "SelBlockInstance" and "SelGroup" to make sure.</li>
 
-<input type="checkbox"> <b>My model is set to either Meters or Feet (not mm or in).</b> <br>
+<input type="checkbox"> <b>My model is set to either Meters or Feet (not mm or in).</b><br>
 
 <input type="checkbox"> <b>My model is free of overlapping, coplanar, or intersecting geometry.</b><br>
 
@@ -78,6 +78,9 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 <input type="checkbox"> <b>Any curved surfaces in the model have been simplified to individual flat planes.</b><br>
 
 <input type="checkbox"> <b>Any surrounding context has been made into a single, joined mesh.</b>
+
+- [x] Write the press release
+- [ ] Write the press release
 
 ### Sources, Calculations + Metrics
 <!--add text and/or images for any sources for you metrics, calculations & equations, assumptions and specific metric output-->

@@ -42,7 +42,13 @@ module.exports = {
       },
       {
         text: 'Tools',
-        link: '/tools/'
+        ariaLabel: 'test dropdown',
+        items: [
+          { text: 'Environmental', link: '/tools/Environmental/' },
+          { text: 'Network', link: '/tools/Network/' },
+          { text: 'Qualitative', link: '/tools/Qualitative/' },
+          { text: 'Other', link: '/tools/Other/' }
+        ]
       },
       {
         text: 'Buildings',
@@ -68,6 +74,11 @@ module.exports = {
     sidebar: {
       '/projects/Fall_2020/':getFilePaths('projects/Fall_2020', false, true),
       '/projects/Spring_2021/':getFilePaths('projects/Spring_2021', false, true),
+      '/tools/Environmental/':getFilePaths('tools/Environmental', false, true),
+      '/tools/Network/':getFilePaths('tools/Network', false, true),
+      '/tools/Qualitative/':getFilePaths('tools/Qualitative', false, true),
+      '/tools/Other/':getFilePaths('tools/Other', false, true),
+      
       '/types/':[
         '',
         'Type_Documentation_Temple',
@@ -94,3 +105,7 @@ module.exports = {
     '@vuepress/plugin-medium-zoom',
   ]
 }
+
+
+
+

@@ -77,7 +77,7 @@ This image should be an ***computational design model diagram*** that clearly de
 ![description](../images/PT_AnalysisToolSummary.png)
 *Please include a short caption describing your diagram.*
 
-Describe how you are deriving your metric. Write -- sentences to explain.
+Describe how you are deriving your metric.
 
 1. Have a summary image with each analysis tool (examples above)
 1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
@@ -92,7 +92,7 @@ Describe how you are deriving your metric. Write -- sentences to explain.
 
 ### Procedural Types
 
-This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. Write -- sentences to explain.
+This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. 
 
 [Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/types) to any procedural types you have documented and posted.
 
@@ -108,7 +108,7 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 
 ### Design Space
 
-This section should be descriptive of your team's input ranges, the reasoning why you picked that range and explanation of what you left out. Write -- sentences to explain.
+This section should be descriptive of your team's input ranges, the reasoning why you picked that range and explanation of what you left out. 
 
 ```
 For example,
@@ -132,7 +132,7 @@ Please include simple diagram(s) that illustrate extremes of the design space, a
 
 ### Exploring the Design Space
 
-This section should be descriptive of your team's design exploration and initial insights using Scout. Write -- sentences to explain.
+This section should be descriptive of your team's design exploration and initial insights using Scout. 
 
 ***Each team will be conducting a live demonstration of your model in Scout when presenting final project.***
 

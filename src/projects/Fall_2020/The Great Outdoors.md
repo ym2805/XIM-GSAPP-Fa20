@@ -2,6 +2,12 @@ Final Project XIM Fall 2020
 
 # The Great Outdoor
 
+CHECK LIST 
+For your final image, follow the abstract naming convention: ProgramAbbreviation CriticLastName StudentName1 StudentName2 FA20 ImageNumber ImageTitle.ext Example: VS_BST Ames KenBohen JamieSmith FA20 01 section.PNG. Not that since this a  visual studies course and tech elective you will use VS_BST as the program abbreviation.
+You will be presenting through a combination of your GitHub write + live Scout exploration. No pdf or slide deck needed.
+Send me your zipped design spaces by the end of the day on Sunday if you want your design space hosted on AWS (rather then locally) for the final. Send a concise tile for you project that we can use for the url. It will be scout.kpfui.dev/?project=YOU_PROJECT_NAME. If you don't have it ready by the end of day Sunday, that is fine, just host locally for the final and then send us your design space after. I just want to make sure that everyone has a permanent url to use after the class.
+
+
 Achieve the extreme urban comfort of outdoor public spaces and explore their relationship to the building typologies and urban fabric layout during Pandemic. 
 ne sentence that summarize you project.
 

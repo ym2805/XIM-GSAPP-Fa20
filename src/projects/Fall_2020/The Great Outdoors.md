@@ -1,6 +1,8 @@
 Final Project XIM Fall 2020
 
 # The Great Outdoor
+# D Outdoor
+
 
 CHECK LIST 
 For your final image, follow the abstract naming convention: ProgramAbbreviation CriticLastName StudentName1 StudentName2 FA20 ImageNumber ImageTitle.ext Example: VS_BST Ames KenBohen JamieSmith FA20 01 section.PNG. Not that since this a  visual studies course and tech elective you will use VS_BST as the program abbreviation.

@@ -23,8 +23,23 @@ Clearly state both the problem that your project addresses AND an explanation of
 
 For example, a daring question could be:
 
+***In wake of a global pandemic, places around the world desperately seek out public arenas, in particular, open street space. Yet, the overall activity for the city lagged behind***
+
 ```
-“In wake of a global pandemic, places around the world desperately seek out public arenas, in particular, open street space. Yet, the overall activity for the city lagged behind.”
+“What if, enlarged the public space and provided amenity programs are achieved through decreasing the transportation pressure?”
+```
+
+```
+“What if, more outdoor seating is obtained through converting the motorway into recreational spaces?”
+```
+
+
+```
+“What if, more outdoor seating is obtained through converting the motorway into recreational spaces?”
+```
+
+```
+“What if, increased area of public spaces are fragmented and temporarily privatized through shrinking of the existing cities blocks?”
 ```
 
 Then, you would take a google earth image of Manhattan and photoshop buildings in place of Central Park and many small parks scattered throughout the borough. See image below.

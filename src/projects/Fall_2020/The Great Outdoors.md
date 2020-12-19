@@ -68,6 +68,7 @@ Short caption
 4. Walkability
 
 ***Goal***
+
 To understand how cityscape as dense and developed as New York could adapt to changing need of public in order to increase over all activity. Evaluate the successfulness of city streets in contemporary as well as future times. Explore how public spaces can reshape the urban fabric/layout.
 
 The sunlight exposure will be based on seasons within the year the average sunlight more than 6-hours exposure community will be determined as a comfortable community
@@ -76,13 +77,13 @@ The activiites and walkability will help us to utilize the street spaces by pede
 
 ***We expect to find a comfortable community or a urban context needs at least 6 hours sunlight exposure, the enough public space as well as the different programs to meet the requirment. Moreover, the public space accessible within 10 mins based on different walkability path.*** 
 
+
 ### What Did We Discover?
 
-At a high-level, state your conclusions. This engages the audience and helps them better follow along as you build up to how you got there. It makes them want to pay attention.
-
+At different population density area, the public space programs would be divided into five different types to meet our goal.
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20discover.png)
 
 ```
-For example,
 “Through the computational design model, we have identified X and Y trends that allows the city
 to address Z while achieving or increasing A and B.”
 ```
@@ -101,7 +102,7 @@ Not all projets will cover all the above topics. Use what is needed to explain w
 
 <br />
 
-![description](../images/PT_CompDesignModelDiagram.png)
+![description]()
 This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
 *Please include a short caption.*
 

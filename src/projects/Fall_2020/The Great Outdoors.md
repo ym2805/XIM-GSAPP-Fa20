@@ -88,10 +88,9 @@ to address the social distancing and shortage of public space programs while ach
 In New York, Full block implementation saw higher levels of activity (78%) than “Open Restaurant” street (62%) and far higher level of activity compared to “Protected Bike Lane” street (51%)
 
 
-1. Background research of your problem and proposal
-1. Future context exploration and transformation of NYC into an hypothetical condition
-1. Urban data mapping
-Not all projets will cover all the above topics. Use what is needed to explain why the issues your project addresses matter.
+In 2050, city of New York commits to have its first neighborhood designed to let people experience the GREAT Outdoors during the Pandemic.
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ps%20types.png)
 
 <br />
 

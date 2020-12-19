@@ -19,11 +19,14 @@ The introduction image indicates that the design computational model involved wi
 
 <br />
 
-Clearly state both the problem that your project addresses AND an explanation of your hypothesis -- i.e., how the project might address the problem. This can incorporate the ***daring questions*** that you asked during the development of your computational model. Feel free to deviate from the Mad Libs structure, which may have now become restrictive.
 
-For example, a daring question could be:
 
 ***In wake of a global pandemic, places around the world desperately seek out public arenas, in particular, open street space. Yet, the overall activity for the city lagged behind***
+
+
+
+In New York, Full block implementation saw higher levels of activity (78%) than “Open Restaurant” street (62%) and far higher level of activity compared to “Protected Bike Lane” street (51%)
+https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20rb.png
 
 ```
 “What if, enlarged the public space and provided amenity programs are achieved through decreasing the transportation pressure?”

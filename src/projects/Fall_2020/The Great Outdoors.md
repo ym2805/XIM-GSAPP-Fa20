@@ -101,8 +101,8 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 <br />
 
 ![description]()
-This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
-*Please include a short caption.*
+ ***computational design model diagram*** 
+ ***inputs, procedural rules and metrics***
 
 
 ### Analysis Tools
@@ -146,8 +146,7 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 This section should be descriptive of your team's input ranges, the reasoning why you picked that range and explanation of what you left out. 
 
 ```
-For example,
-"I’m varying this input in this range because of X."
+"I’m varying this input in this range because of street pattern and population density."
 ```
 
 Please include simple diagram(s) that illustrate extremes of the design space, animated gif of design space and computational model table. The diagrams and animations should be CLEAR and SIMPLE. These can be animations showing how your model changes one variable at a time, still images explaining the variables, or other drawing types, but you must break down the complexity of your project into intelligible pieces.
@@ -202,13 +201,8 @@ For the concluding text of your computational design model documentation, think 
 1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
 
 
-### Overall format and flow of text:
-
-For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.
 
 
 
-CHECK LIST 
-For your final image, follow the abstract naming convention: ProgramAbbreviation CriticLastName StudentName1 StudentName2 FA20 ImageNumber ImageTitle.ext Example: VS_BST Ames KenBohen JamieSmith FA20 01 section.PNG. Not that since this a  visual studies course and tech elective you will use VS_BST as the program abbreviation.
-You will be presenting through a combination of your GitHub write + live Scout exploration. No pdf or slide deck needed.
-Send me your zipped design spaces by the end of the day on Sunday if you want your design space hosted on AWS (rather then locally) for the final. Send a concise tile for you project that we can use for the url. It will be scout.kpfui.dev/?project=YOU_PROJECT_NAME. If you don't have it ready by the end of day Sunday, that is fine, just host locally for the final and then send us your design space after. I just want to make sure that everyone has a permanent url to use after the class.
+
+

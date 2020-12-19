@@ -1,19 +1,15 @@
 Final Project XIM Fall 2020
 
+Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
+
 # The Great Outdoor
-# D Outdoor
 
+***Achieve the extreme urban comfort of outdoor public spaces and explore their relationship to the building typologies and urban fabric layout during Pandemic.***
 
-CHECK LIST 
-For your final image, follow the abstract naming convention: ProgramAbbreviation CriticLastName StudentName1 StudentName2 FA20 ImageNumber ImageTitle.ext Example: VS_BST Ames KenBohen JamieSmith FA20 01 section.PNG. Not that since this a  visual studies course and tech elective you will use VS_BST as the program abbreviation.
-You will be presenting through a combination of your GitHub write + live Scout exploration. No pdf or slide deck needed.
-Send me your zipped design spaces by the end of the day on Sunday if you want your design space hosted on AWS (rather then locally) for the final. Send a concise tile for you project that we can use for the url. It will be scout.kpfui.dev/?project=YOU_PROJECT_NAME. If you don't have it ready by the end of day Sunday, that is fine, just host locally for the final and then send us your design space after. I just want to make sure that everyone has a permanent url to use after the class.
-
-
-Achieve the extreme urban comfort of outdoor public spaces and explore their relationship to the building typologies and urban fabric layout during Pandemic. 
-ne sentence that summarize you project.
 
 ![description]()
+
+The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs. 
 
 <br />
 
@@ -179,3 +175,10 @@ For the concluding text of your computational design model documentation, think 
 ### Overall format and flow of text:
 
 For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.
+
+
+
+CHECK LIST 
+For your final image, follow the abstract naming convention: ProgramAbbreviation CriticLastName StudentName1 StudentName2 FA20 ImageNumber ImageTitle.ext Example: VS_BST Ames KenBohen JamieSmith FA20 01 section.PNG. Not that since this a  visual studies course and tech elective you will use VS_BST as the program abbreviation.
+You will be presenting through a combination of your GitHub write + live Scout exploration. No pdf or slide deck needed.
+Send me your zipped design spaces by the end of the day on Sunday if you want your design space hosted on AWS (rather then locally) for the final. Send a concise tile for you project that we can use for the url. It will be scout.kpfui.dev/?project=YOU_PROJECT_NAME. If you don't have it ready by the end of day Sunday, that is fine, just host locally for the final and then send us your design space after. I just want to make sure that everyone has a permanent url to use after the class.

@@ -35,19 +35,17 @@ For example, a daring question could be:
 
 
 ```
-“What if, more outdoor seating is obtained through converting the motorway into recreational spaces?”
+“What if, the higher population area required different public space types?”
 ```
 
 ```
 “What if, increased area of public spaces are fragmented and temporarily privatized through shrinking of the existing cities blocks?”
 ```
 
-Then, you would take a google earth image of Manhattan and photoshop buildings in place of Central Park and many small parks scattered throughout the borough. See image below.
-
+Google earth map photo collage
 
 ![description]()
-This image should be a ***photo collage*** that is illustrative of the outcome of your project.
-*Please include a short caption describing your college.*
+Short caption
 
 
 ### Goals and Metrics

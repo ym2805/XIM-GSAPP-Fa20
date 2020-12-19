@@ -23,11 +23,6 @@ The introduction image indicates that the design computational model involved wi
 
 ***In wake of a global pandemic, places around the world desperately seek out public arenas, in particular, open street space. Yet, the overall activity for the city lagged behind***
 
-
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20rb.png)
-In New York, Full block implementation saw higher levels of activity (78%) than “Open Restaurant” street (62%) and far higher level of activity compared to “Protected Bike Lane” street (51%)
-
-
 ```
 “What if, enlarged the public space and provided amenity programs are achieved through decreasing the transportation pressure?”
 ```
@@ -84,11 +79,15 @@ At different population density area, the public space programs would be divided
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20discover.png)
 
 ```
-“Through the computational design model, we have identified X and Y trends that allows the city
-to address Z while achieving or increasing A and B.”
+“Through the computational design model, we have identified urban population density and public space numbers trends that allows the city
+to address the social distancing and shortage of public space programs while achieving or increasing sunlight exposure and public accessbility.”
 ```
 
-Explain why the outcome of your model is important by using your:
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20rb.png)
+
+In New York, Full block implementation saw higher levels of activity (78%) than “Open Restaurant” street (62%) and far higher level of activity compared to “Protected Bike Lane” street (51%)
+
+
 1. Background research of your problem and proposal
 1. Future context exploration and transformation of NYC into an hypothetical condition
 1. Urban data mapping

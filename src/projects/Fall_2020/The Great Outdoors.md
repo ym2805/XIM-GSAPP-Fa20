@@ -100,9 +100,8 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 <br />
 
-![description]()
- ***computational design model diagram*** 
- ***inputs, procedural rules and metrics***
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20diagram-01.png)
+
 
 
 ### Analysis Tools

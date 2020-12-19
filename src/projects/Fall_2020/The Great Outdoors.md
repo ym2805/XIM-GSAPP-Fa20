@@ -24,28 +24,36 @@ The introduction image indicates that the design computational model involved wi
 ***In wake of a global pandemic, places around the world desperately seek out public arenas, in particular, open street space. Yet, the overall activity for the city lagged behind***
 
 
-
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20rb.png)
 In New York, Full block implementation saw higher levels of activity (78%) than “Open Restaurant” street (62%) and far higher level of activity compared to “Protected Bike Lane” street (51%)
-https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20rb.png
+
 
 ```
 “What if, enlarged the public space and provided amenity programs are achieved through decreasing the transportation pressure?”
 ```
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%201.png)
+
+
 
 ```
 “What if, more outdoor seating is obtained through converting the motorway into recreational spaces?”
 ```
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%202.png)
+
 
 
 ```
 “What if, the higher population area required different public space types?”
 ```
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq5.jpg)
 
 ```
 “What if, increased area of public spaces are fragmented and temporarily privatized through shrinking of the existing cities blocks?”
 ```
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%203.png)
 
-Google earth map photo collage
+
+### Google earth map photo collage ###
 
 ![description]()
 Short caption
@@ -53,13 +61,20 @@ Short caption
 
 ### Goals and Metrics
 
-These section should be descriptive of how your team is setting up goals and metrics to determine success.
+***Metrics***
+1. Activities & Usage
+2. Sunlight analysis 
+3. Thermal analysis
+4. Walkability
 
-1. What are you measuring?
-1. Why you are measuring it?
-1. How does it relate to your goals?
+***Goal***
+To understand how cityscape as dense and developed as New York could adapt to changing need of public in order to increase over all activity. Evaluate the successfulness of city streets in contemporary as well as future times. Explore how public spaces can reshape the urban fabric/layout.
 
-i.e. how did you set up your project to measure performance and what did you expect to find?
+The sunlight exposure will be based on seasons within the year the average sunlight more than 6-hours exposure community will be determined as a comfortable community
+The thermal analysis will indicates level of Comfort
+The activiites and walkability will help us to utilize the street spaces by pedestrians and adjacent tenants as well as activities within larger context.
+
+***We expect to find a comfortable community or a urban context needs at least 6 hours sunlight exposure, the enough public space as well as the different programs to meet the requirment. Moreover, the public space accessible within 10 mins based on different walkability path.*** 
 
 ### What Did We Discover?
 

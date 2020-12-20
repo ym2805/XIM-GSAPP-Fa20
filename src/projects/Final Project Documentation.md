@@ -1,6 +1,6 @@
-# Project Title
+# Bridging 3D Green Resource Equality
 
-***Subtitle*** One sentence that summarize you project.
+***Subtitle*** Using bridges as an add-on system together with other green space types to improve overall living conditions.
 
 ![description](../images/Final_Project_Temple_Intro_Image.png)
 This image should be an ***introduction image*** that clearly describes your computational design model.

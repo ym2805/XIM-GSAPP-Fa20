@@ -41,10 +41,10 @@ This image should be a ***photo collage*** that is illustrative of the outcome o
 
 ### Goals and Metrics
 
-## Walkability
+#### Walkability
 Distance to green spaces including ground travel distance and vertical travel distance from each floor. 
 
-## Daylight Hours
+#### Daylight Hours
 Daylight hours of green spaces from April to Octorber that have at least 6-hr daylight.
 
 *Measuring at the height of trees (12 meters above the ground).

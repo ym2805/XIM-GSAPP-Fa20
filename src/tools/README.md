@@ -25,9 +25,9 @@ This is a basic description of the tool that is simple enough that for anyone to
 5. Adjust Threshold X,Y,Z
 6. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
 
-![description](../images/grasshopper_tree.JPG)
+![description](../images/grasshopper_tree.jpg)
 
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/grasshopper_tree.JPG) -->
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/grasshopper_tree.jpg) -->
 
 #### Troubleshooting
 

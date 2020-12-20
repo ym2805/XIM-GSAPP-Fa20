@@ -20,17 +20,19 @@ Chinatown residents identified housing as the major issue they care most about a
 
 ![description](../images/background_research_population.jpg) 
 
-Moreover, according to the Wealth distribution in NYC and the issues that New Yorkers cared about by neighborhoods, 
+Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
 
-Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. These spaces are essential for people’s health and can be achieved through multiple methods. Abosulutely， the unsatisfied living conditions contribute to the serious problem of population decreasion. 
-Extreme environmental and health issues are shifting real estate values towards greater access to open spaces over transits in NYC . How will China town act to maximize accessibility to green spaces for low-income residents affected by city-wide gentrification?
+Yet, green spaces are essential for people’s health and can be achieved through multiple methods. 
+
+### Problem Statement
+
+Extreme environmental and health issues are shifting real estate values towards greater access to open spaces over transits in NYC.
+How will China town act to maximize accessibility to green spaces for low-income residents affected by city-wide gentrification?
 
 ```
-“What if increasing the population of Chinatown through a high FAR neighborhood with enlarged preferable outdoor spaces through varied add-on green systems？ ”
+“What if increasing the population of Chinatown through a high FAR neighborhood 
+with enlarged preferable outdoor spaces through varied add-on green systems？ ”
 ```
-
-Then, you would take a google earth image of Manhattan and photoshop buildings in place of Central Park and many small parks scattered throughout the borough. See image below.
-
 
 ![description](../images/Final_Project_Temple_Collage_Image.jpg)
 This image should be a ***photo collage*** that is illustrative of the outcome of your project.

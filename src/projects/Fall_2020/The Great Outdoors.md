@@ -144,7 +144,19 @@ Type E, the height is higher than 200 feet with high population density.
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20types-01.png)
 
 
+It is encouraged to use sketching when illustrating rules and types of your computational design model.
+*Please include a short caption describing your diagram.*
 
+
+### Design Space
+
+```
+"I’m varying this input in this range because of street pattern and population density."
+```
+
+
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01.png)
 
 ***Urban condition 1 with public space***
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF1.gif)
@@ -155,22 +167,6 @@ Type E, the height is higher than 200 feet with high population density.
 
 ***Urban condition 3 with public space***
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF3.gif)
-
-
-It is encouraged to use sketching when illustrating rules and types of your computational design model.
-*Please include a short caption describing your diagram.*
-
-
-### Design Space
-
-```
-"I’m varying this input in this range because of street pattern and population density."
-```
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BSTGIF4.gif)
-
-
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01.png)
-*Please include a short caption describing your diagram.*
 
 <br />
 

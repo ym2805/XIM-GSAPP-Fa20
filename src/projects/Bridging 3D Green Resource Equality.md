@@ -1,6 +1,6 @@
 # Bridging 3D Green Resource Equality
 
-***Using bridges as an add-on system together with other green space types to improve overall living conditions.*** 
+**Using bridges as an add-on system together with other green space types to improve overall living conditions.*** 
 
 ![description](../images/Final_Project_Temple_Intro_Image.png)
 This image should be an ***introduction image*** that clearly describes your computational design model.
@@ -17,7 +17,7 @@ This image should be an ***introduction image*** that clearly describes your com
 Between 2010 and 2017, population has increased in neighborhoods across all five boroughs of NYC, but has decreased in Chinatown area. 
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
-![description](../images/B_background_research_population.jpg) 
+![description](../images/B_background_research_population.jpg)
 
 Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
 

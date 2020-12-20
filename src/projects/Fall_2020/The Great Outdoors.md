@@ -111,7 +111,7 @@ Walkbility
 
 Average daylight analysis
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20Daylight%20Analysis-01.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20Daylight%20Analysis-01-01.png)
 
 
 #### Custom Tool Name

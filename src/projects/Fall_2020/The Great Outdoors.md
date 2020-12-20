@@ -138,10 +138,7 @@ Type C, the height is equal to 120 feet with high population density.
 Type D, the height is higher than 200 feet with mid population density.
 
 Type E, the height is higher than 200 feet with high population density.
-
-
 [Link]() to any procedural types you have documented and posted.
-
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20types-01.png)
 
 

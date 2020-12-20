@@ -108,15 +108,15 @@ Walkbility
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20WALKBILITY%20ANALYSIS-01.png)
 
 
-![description](../images/PT_AnalysisToolSummary.png)
-*Please include a short caption describing your diagram.*
 
-Describe how you are deriving your metric.
+Average daylight analysis
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20Daylight%20Analysis.pdf)
 
-1. Have a summary image with each analysis tool (examples above)
-1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
+
+
 
 #### Custom Tool Name
+Trade off analysis
 ![description]()
 *Please include a short caption describing your diagram.*
 

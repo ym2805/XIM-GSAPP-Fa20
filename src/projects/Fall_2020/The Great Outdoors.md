@@ -105,7 +105,7 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 ### Analysis Tools
 Walkbility
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20WALKBILITY%20ANALYSIS-01.png)
 
 
 ![description](../images/PT_AnalysisToolSummary.png)
@@ -132,15 +132,15 @@ They are restricted by the urban density and building height.
 ***Procedural type rule***
 
 
-Outdoor Performance, the height below 120 feet with low population density.
+Outdoor Performance, the building height below 120 feet with low population density.
   
-Outdoor Eating, the height below 120 feet with mid population density.
+Outdoor Eating, the building height below 120 feet with mid population density.
 
-Urban Roof Garden, the height is equal to 120 feet with high population density.
+Urban Roof Garden, the building height is equal to 120 feet with high population density.
 
-Dog Park, the height is higher than 200 feet with mid population density.
+Dog Park, the building height is higher than 200 feet with mid population density.
 
-Bar/ Barbeque Area, the height is higher than 200 feet with high population density.
+Bar/ Barbeque Area, the building height is higher than 200 feet with high population density.
 
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20types-01.png)

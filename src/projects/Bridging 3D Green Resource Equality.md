@@ -18,7 +18,7 @@ Between 2010 and 2017, population has increased in neighborhoods across all five
 
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
-![description](../images/background_research_population.jpg) 
+![description](../src/images/background_research_population.jpg) 
 
 Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
 
@@ -38,11 +38,22 @@ with enlarged preferable outdoor spaces through varied add-on green systemsï¼Ÿ â
 This image should be a ***photo collage*** that is illustrative of the outcome of your project.
 *Please include a short caption describing your college.*
 
+
 ### Goals and Metrics
 
 These section should be descriptive of how your team is setting up goals and metrics to determine success.
 
 1. What are you measuring?
+
+Walkability
+Whether the distance from ground level to parks is in 5 min
+Whether the distance from each floor to bridging terraces is in 5 min
+
+Daylight 
+Obstruction from neighborhoods
+Daylight hours
+The shadow of buildings  impact on Bridges and parks
+
 1. Why you are measuring it?
 1. How does it relate to your goals?
 

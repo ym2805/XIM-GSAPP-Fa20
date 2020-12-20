@@ -1,9 +1,10 @@
+Project Team: Fan Liu, Yuanming Ma, Tian Yao, Wanting Sun
+
 # Bridging 3D Green Resource Equality
 
-**Using bridges as an add-on system together with other green space types to improve overall living conditions.*** 
+**Using bridges as an add-on system together with other green space types to improve overall living conditions.**
 
 ![description](../images/Final_Project_Temple_Intro_Image.png)
-This image should be an ***introduction image*** that clearly describes your computational design model.
 *Please include a short caption.*
 
 <br />
@@ -34,10 +35,8 @@ How will China town act to maximize accessibility to green spaces for low-income
 with enlarged preferable outdoor spaces through varied add-on green systems？ ”
 ```
 
-![description](../images/Final_Project_Temple_Collage_Image.jpg)
-This image should be a ***photo collage*** that is illustrative of the outcome of your project.
-*Please include a short caption describing your college.*
-
+![description](../images/B_photo_collage.png)
+*Green spaces are equally distributed here.
 
 ### Goals and Metrics
 
@@ -72,7 +71,7 @@ to address high density while achieving desirable sqft of green spaces per perso
 
 <br />
 
-![description](../images/PT_CompDesignModelDiagram.png)
+![description](../images/B_procedural_type_diagram)
 This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
 *Please include a short caption.*
 

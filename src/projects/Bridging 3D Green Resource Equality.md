@@ -20,6 +20,7 @@ Chinatown residents identified housing as the major issue they care most about a
 ![description](../images/B_background_research_population.jpg) 
 
 Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
+
 Yet, green spaces are essential for people’s health and can be achieved through multiple methods. 
 
 ### Problem Statement
@@ -29,6 +30,7 @@ How will China town act to maximize accessibility to green spaces for low-income
 
 ```
 “What if increasing the population of Chinatown through a high FAR neighborhood 
+
 with enlarged preferable outdoor spaces through varied add-on green systems？ ”
 ```
 
@@ -44,6 +46,7 @@ Distance to green spaces including ground travel distance and vertical travel di
 
 ## Daylight Hours
 Daylight hours of green spaces from April to Octorber that have at least 6-hr daylight.
+
 *Measuring at the height of trees (12 meters above the ground).
 
 ### Why?
@@ -55,6 +58,7 @@ Daylight hours are necessary and beneficial for vegetation and preferable green 
 
 ```
 “Through the computational design model, we have identified in-between building bridges that allows the neighborhood
+
 to address high density while achieving desirable sqft of green spaces per person.”
 ```
 

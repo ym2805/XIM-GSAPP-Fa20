@@ -14,12 +14,19 @@ This image should be an ***introduction image*** that clearly describes your com
 
 <br />
 
-Clearly state both the problem that your project addresses AND an explanation of your hypothesis -- i.e., how the project might address the problem. This can incorporate the ***daring questions*** that you asked during the development of your computational model. Feel free to deviate from the Mad Libs structure, which may have now become restrictive.
+Between 2010 and 2017, population has increased in neighborhoods across all five boroughs of NYC, but has decreased in Chinatown area. 
 
-For example, a daring question could be:
+Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
+
+![description](../images/images/background_research_population.jpg) 
+
+Moreover, according to the Wealth distribution in NYC and the issues that New Yorkers cared about by neighborhoods, 
+
+Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. These spaces are essential for people’s health and can be achieved through multiple methods. Abosulutely， the unsatisfied living conditions contribute to the serious problem of population decreasion. 
+Extreme environmental and health issues are shifting real estate values towards greater access to open spaces over transits in NYC . How will China town act to maximize accessibility to green spaces for low-income residents affected by city-wide gentrification?
 
 ```
-“What if all park space was equitably distributed?”
+“What if increasing the population of Chinatown through a high FAR neighborhood with enlarged preferable outdoor spaces through varied add-on green systems？ ”
 ```
 
 Then, you would take a google earth image of Manhattan and photoshop buildings in place of Central Park and many small parks scattered throughout the borough. See image below.

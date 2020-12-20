@@ -140,12 +140,16 @@ Urban Roof Garden, the height is equal to 120 feet with high population density.
 Dog Park, the height is higher than 200 feet with mid population density.
 
 Bar/ Barbeque Area, the height is higher than 200 feet with high population density.
-[Link]() to any procedural types you have documented and posted.
+
+
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20types-01.png)
 
 
-It is encouraged to use sketching when illustrating rules and types of your computational design model.
-*Please include a short caption describing your diagram.*
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20TYPES%20ILLUSTRATIONS.png)
+
+Illustrating rules and types of computational design model.
+
+[Link]() to any procedural types you have documented and posted.
 
 
 ### Design Space

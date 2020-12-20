@@ -75,7 +75,7 @@ The activiites and walkability will help us to utilize the street spaces by pede
 ### What Did We Discover?
 
 At different population density area, the public space programs would be divided into five different types to meet our goal.
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20discover.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20discover-01.png)
 
 ```
 “Through the computational design model, we have identified urban population density and public space numbers trends that allows the city

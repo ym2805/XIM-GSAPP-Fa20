@@ -154,7 +154,8 @@ Type E, the height is higher than 200 feet with high population density.
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF2.gif)
 
 ***Urban condition 3 with public space***
-https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF3.gif
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF3.gif)
+
 
 It is encouraged to use sketching when illustrating rules and types of your computational design model.
 *Please include a short caption describing your diagram.*

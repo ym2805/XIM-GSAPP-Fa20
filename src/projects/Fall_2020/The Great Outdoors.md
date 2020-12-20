@@ -131,15 +131,15 @@ They are restricted by the urban density and building height.
 ***Procedural type rule***
 
 
-Type A, the height below 120 feet with low population density.
+Outdoor Performance, the height below 120 feet with low population density.
+  
+Outdoor Eating, the height below 120 feet with mid population density.
 
-Type B, the height below 120 feet with mid population density.
+Urban Roof Garden, the height is equal to 120 feet with high population density.
 
-Type C, the height is equal to 120 feet with high population density.
+Dog Park, the height is higher than 200 feet with mid population density.
 
-Type D, the height is higher than 200 feet with mid population density.
-
-Type E, the height is higher than 200 feet with high population density.
+Bar/ Barbeque Area, the height is higher than 200 feet with high population density.
 [Link]() to any procedural types you have documented and posted.
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20types-01.png)
 

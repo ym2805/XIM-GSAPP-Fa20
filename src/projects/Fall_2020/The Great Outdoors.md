@@ -57,10 +57,9 @@ Short caption
 ### Goals and Metrics
 
 ***Metrics***
-1. Activities & Usage
-2. Sunlight analysis 
-3. Thermal analysis
-4. Walkability
+1. Average daily hours analysis
+2. Number of outdoor eating within 8 mins walking
+3. Surface area/ volume normailzed by a extruded tower
 
 ***Goal***
 
@@ -90,7 +89,7 @@ In New York, Full block implementation saw higher levels of activity (78%) than 
 
 In 2050, city of New York commits to have its first neighborhood designed to let people experience the GREAT Outdoors during the Pandemic.
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ps%20types.png)
+
 
 <br />
 

@@ -18,7 +18,7 @@ Between 2010 and 2017, population has increased in neighborhoods across all five
 
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
-![description](../src/images/background_research_population.jpg) 
+![description](../images/background_research_population.jpg) 
 
 Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
 

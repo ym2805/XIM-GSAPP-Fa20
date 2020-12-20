@@ -104,8 +104,9 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 
 ### Analysis Tools
+Walkbility
 ![description](../images/PT_SummaryAnalysisTool.png)
-*Please include a short caption describing your diagram.*
+
 
 ![description](../images/PT_AnalysisToolSummary.png)
 *Please include a short caption describing your diagram.*

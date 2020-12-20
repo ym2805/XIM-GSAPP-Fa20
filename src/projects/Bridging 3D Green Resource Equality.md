@@ -15,13 +15,11 @@ This image should be an ***introduction image*** that clearly describes your com
 <br />
 
 Between 2010 and 2017, population has increased in neighborhoods across all five boroughs of NYC, but has decreased in Chinatown area. 
-
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
-![description](../images/background_research_population.jpg) 
+![description](../images/B_background_research_population.jpg) 
 
 Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
-
 Yet, green spaces are essential for people’s health and can be achieved through multiple methods. 
 
 ### Problem Statement
@@ -41,40 +39,26 @@ This image should be a ***photo collage*** that is illustrative of the outcome o
 
 ### Goals and Metrics
 
-These section should be descriptive of how your team is setting up goals and metrics to determine success.
+## Walkability
+Distance to green spaces including ground travel distance and vertical travel distance from each floor. 
 
-1. What are you measuring?
+## Daylight Hours
+Daylight hours of green spaces from April to Octorber that have at least 6-hr daylight.
+*Measuring at the height of trees (12 meters above the ground).
 
-Walkability
-Whether the distance from ground level to parks is in 5 min
-Whether the distance from each floor to bridging terraces is in 5 min
+### Why?
 
-Daylight 
-Obstruction from neighborhoods
-Daylight hours
-The shadow of buildings  impact on Bridges and parks
-
-1. Why you are measuring it?
-1. How does it relate to your goals?
-
-i.e. how did you set up your project to measure performance and what did you expect to find?
+Short distance to green spaces can scatter the population and create equal green resource accessibility for each individual person.
+Daylight hours are necessary and beneficial for vegetation and preferable green spaces.
 
 ### What Did We Discover?
 
-At a high-level, state your conclusions. This engages the audience and helps them better follow along as you build up to how you got there. It makes them want to pay attention.
-
-
 ```
-For example,
-“Through the computational design model, we have identified X and Y trends that allows the city
-to address Z while achieving or increasing A and B.”
+“Through the computational design model, we have identified in-between building bridges that allows the neighborhood
+to address high density while achieving desirable sqft of green spaces per person.”
 ```
 
-Explain why the outcome of your model is important by using your:
-1. Background research of your problem and proposal
-1. Future context exploration and transformation of NYC into an hypothetical condition
-1. Urban data mapping
-Not all projets will cover all the above topics. Use what is needed to explain why the issues your project addresses matter.
+![description](../images/B_far_now_future.jpg)
 
 <br />
 

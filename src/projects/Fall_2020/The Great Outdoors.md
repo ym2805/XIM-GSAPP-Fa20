@@ -125,15 +125,28 @@ Describe how you are deriving your metric.
 
 ### Procedural Types
 
-This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. 
+We defined the five different procedural types for public space program.
+They are restricted by the urban density and building height.
+
+***Procedural type rule***
+Type A, the height below 120 feet with low population density.
+
+Type B, the height below 120 feet with mid population density.
+
+Type C, the height is equal to 120 feet with high population density.
+
+Type D, the height is higher than 200 feet with mid population density.
+
+Type E, the height is higher than 200 feet with high population density.
+
 
 [Link]() to any procedural types you have documented and posted.
 
-![description]()
-*Please include a short caption describing your diagram.*
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20types-01.png)
+
 
 ![description]()
-*Please include a short caption describing your diagram.*
+
 
 It is encouraged to use sketching when illustrating rules and types of your computational design model.
 *Please include a short caption describing your diagram.*

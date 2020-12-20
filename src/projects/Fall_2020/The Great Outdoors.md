@@ -152,7 +152,7 @@ Please include simple diagram(s) that illustrate extremes of the design space, a
 
 
 
-![description]()
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01.png)
 *Please include a short caption describing your diagram.*
 
 <br />

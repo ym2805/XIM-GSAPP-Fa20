@@ -166,9 +166,7 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 ```
 "I’m varying this input in this range because of street pattern and population density."
 ```
-
-Please include simple diagram(s) that illustrate extremes of the design space, animated gif of design space and computational model table. The diagrams and animations should be CLEAR and SIMPLE. These can be animations showing how your model changes one variable at a time, still images explaining the variables, or other drawing types, but you must break down the complexity of your project into intelligible pieces.
-
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BSTGIF4.gif)
 
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01.png)

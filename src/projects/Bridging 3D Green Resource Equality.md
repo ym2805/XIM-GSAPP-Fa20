@@ -38,7 +38,6 @@ with enlarged preferable outdoor spaces through varied add-on green systemsï¼Ÿ â
 This image should be a ***photo collage*** that is illustrative of the outcome of your project.
 *Please include a short caption describing your college.*
 
-
 ### Goals and Metrics
 
 These section should be descriptive of how your team is setting up goals and metrics to determine success.

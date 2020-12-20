@@ -18,7 +18,7 @@ Between 2010 and 2017, population has increased in neighborhoods across all five
 
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
-![description](../images/images/background_research_population.jpg) 
+![description](../images/background_research_population.jpg) 
 
 Moreover, according to the Wealth distribution in NYC and the issues that New Yorkers cared about by neighborhoods, 
 

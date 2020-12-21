@@ -9,6 +9,7 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20COVER%20PAGE.png)
 
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/final%20models%201221.png)
 
 
 The introduction image indicates how the design of computational model influences and reshapes the New York city fabric in the future scenario.  

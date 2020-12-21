@@ -34,7 +34,8 @@ with enlarged preferable outdoor spaces through varied add-on green systems？ �
 ```
 
 ![description](../images/B_photo_collage.png)
-*Green spaces are equally distributed here.
+
+*Green spaces are equally distributed.*
 
 ### Goals and Metrics
 
@@ -44,7 +45,7 @@ Distance to green spaces including ground travel distance and vertical travel di
 #### Daylight Hours
 Daylight hours of green spaces from April to Octorber that have at least 6-hr daylight.
 
-*Measuring at the height of trees (12 meters above the ground).
+*Measuring at the height of trees (12 meters above the ground).*
 
 ### Why?
 
@@ -54,9 +55,11 @@ Daylight hours are necessary and beneficial for vegetation and preferable green 
 ### What Did We Discover?
 
 ```
-“Through the computational design model, we have identified in-between building bridges that allows the neighborhood
+“Through the computational design model, we have identified:
 
-to address high density while achieving desirable sqft of green spaces per person.”
+balconies with vertical forests, courtyards with green gardens, and bridges with public green spaces 
+
+that allows the neighborhood to address high density while achieving desirable green spaces for each person.”
 ```
 
 ![description](../images/B_far_now_future.jpg)
@@ -70,8 +73,8 @@ to address high density while achieving desirable sqft of green spaces per perso
 <br />
 
 ![description](../images/B_procedural_type_diagram)
-This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
-*Please include a short caption.*
+
+*Procedural types are determined by parcel size.*
 
 
 ### Analysis Tools

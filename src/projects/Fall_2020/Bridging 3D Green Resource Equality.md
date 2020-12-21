@@ -2,8 +2,7 @@
 
 **Using bridges as an add-on system together with other green space types to improve overall living conditions.**
 
-![description](../images/Final_Project_Temple_Intro_Image.png)
-*Please include a short caption.*
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_project%20image.jpg)
 
 <br />
 
@@ -108,12 +107,6 @@ Custom Tool Page [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/t
 
 ### Procedural Types
 
-#### Inputs
-
-![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_input.png)
-
-#### Types and Rules
-
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type.jpg)
 
 Procedural Type [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/types/Podium_Tower_Bridges/Podium%20Tower%20with%20Bridges.md)
@@ -122,16 +115,11 @@ Procedural Type [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/ty
 ### Design Space
 
 ```
-For example,
 "FAR varies because we want a combination of different procedural types and green space types."
 ```
 
-Please include simple diagram(s) that illustrate extremes of the design space, animated gif of design space and computational model table. The diagrams and animations should be CLEAR and SIMPLE. These can be animations showing how your model changes one variable at a time, still images explaining the variables, or other drawing types, but you must break down the complexity of your project into intelligible pieces.
-
-
-
-![description](../images/PT_DiagramRangeInput.png)
-*Please include a short caption describing your diagram.*
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_input.png)
+*Computational model input.*
 
 <br />
 
@@ -143,11 +131,8 @@ Please include simple diagram(s) that illustrate extremes of the design space, a
 
 ### Exploring the Design Space
 
-This section should be descriptive of your team's design exploration and initial insights using Scout. 
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_gif.jpg)
 
-***Each team will be conducting a live demonstration of your model in Scout when presenting final project.***
-
-Additionally, teams will be required to document their live demo on GitHub with annotated, sequential screenshots replicating the sequence of the live demonstration. Show how you can use Scout to explore scenarios or answer specific questions using the parallel coordinates chart.
 
 ```
 For example,
@@ -156,18 +141,13 @@ For example,
 
 ### Results
 
-Were certain metrics inconclusive? Were there unexpected correlations? What are the GENERAL trends in your data? What are your SPECIFIC insights/findings? You can annotate right on top of Scout screenshots or translate insights to diagrams. How does performance (metrics) relate to form (inputs)?
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_results.jpg)
 
-![description](../images/PT_PerformanceSummarySlide.png)
-*Please include a short caption describing your diagram.*
 
 ### Design Comparison
 
-Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparison image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example, it could be the existing context or an option with your target density but with traditional development patterns (i.e., densification without design innovation.)
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_comparison.jpg)
 
-Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data. 
-
-Zoom in to talk about the best option(s) and the worst. Take a few images to detail why these options perform well or poorly. The point of this entire exercise is to create a data-driven methodology for making DECISIONS, so choose which option or options are the best and defend those choices.
 
 ### Conclusions and Next Steps
 

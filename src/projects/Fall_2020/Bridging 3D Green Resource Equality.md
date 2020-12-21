@@ -131,7 +131,7 @@ Procedural Type [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/ty
 
 ### Exploring the Design Space
 
-![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_gif.jpg)
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_gif.gif)
 
 
 ```

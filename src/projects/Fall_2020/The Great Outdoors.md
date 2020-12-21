@@ -10,8 +10,6 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20COVER%20PAGE.png)
 
 
-![description]()
-
 
 The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs. 
 
@@ -54,7 +52,7 @@ The introduction image indicates that the design computational model involved wi
 
 ### Photo collage ###
 
-![description]()
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20photo%20collage.png)
 
 
 

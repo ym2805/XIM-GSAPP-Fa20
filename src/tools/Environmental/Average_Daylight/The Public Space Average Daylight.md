@@ -15,7 +15,7 @@
 ![description](../images/public_space_daylight2.png)
 
 
-![description](../images/public_space_daylight1.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/public_space_daylight1.png)
 
 ### Required inputs
 

@@ -229,14 +229,13 @@ Such as
 ***Urban design lab***
 
 
-***We challenge how the buildings and public shared spaces are planned and designed separatly. We would recommend the results of the model to the District Community Council. The public space for city-use should be included as an essential part of the architectural design***
+***We challenge how the buildings and public shared spaces are planned and designed separately. We would recommend the results of the model to the District Community Council. The public space for city-use should be included as an essential part of the architectural design***
 
 
 ***To calculate the budget, the construction phases, and the influences to the existing urban context***
 
 
-****Limitation: the model only suit for the high density urban area, and particilarlly, during the post COVID19 era. It could carry the further concept and meaning if the model type suit for different urban condition that we would like to challeng the relationship of public space and highrise buildings***
-
+****Limitation: the model only suit for the high density urban area, and particularly, during the post COVID19 era. It could carry the further concept and meaning if the model type suit for different urban condition that we would like to challenge the relationship of public space and highrise buildings***
 
 
 

@@ -26,7 +26,13 @@ The introduction image indicates how the design of computational model influence
 ***In the wake of a global pandemic, communities desperately seek out public areas, particularly open space. Yet, the overall activity for the city lagged.***
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R1.png)
+
+------------------------------------------------------------------------------------------
+
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R2.png)
+
+----------------------------------------------------------------------------------------
+
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R3.png)
 
 

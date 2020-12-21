@@ -17,7 +17,7 @@ Between 2010 and 2017, population has increased in neighborhoods across all five
 
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
-![description](../images/B_background_research_population.jpg)
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_background_research_population.jpg)
 
 Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
 
@@ -34,9 +34,9 @@ How will Chinatown act to maximize accessibility to green spaces for low-income 
 with enlarged preferable outdoor spaces through varied add-on green systems？ ”
 ```
 
-![description](../images/B_photo_collage.png)
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_photo_collage.png)
 
-*Green spaces are equally distributed.*
+*Equally distributed green space.*
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_google_map_collage.png)
 
@@ -70,7 +70,7 @@ balconies with vertical forests, courtyards with green gardens, and bridges with
 that allows the neighborhood to address high density while achieving desirable green spaces for each person.”
 ```
 
-![description](../images/B_far_now_future.jpg)
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_far_now_future.jpg)
 
 <br />
 

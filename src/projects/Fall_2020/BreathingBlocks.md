@@ -29,13 +29,14 @@ Designers, developers and policy-makers must find new spatial solutions to redir
 
 **The Breathing Blocks proposes a vision of the Bronx in 2030 that optimizes block and street configurations to reduce air pollution in common areas. These configurations result from a computational model that 1) re-classifies streets relative to mobility uses and wind vector directions and 2) organizes building relationships at the city block scale so as to produce common spaces that are safe for public use.** The resultant urban network connects residential units, common spaces across property lines and mobility systems and public infrastructure.
 
-![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_Diagram1.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/aclmpcn_collage.jpg)
+
 *Connected Network of Breathing Blocks*
 
 
 ### Project Goals and Metrics
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_Diagram1.png)
 
-![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/aclmpcn_collage.jpg)
 
 **Goal:** Provide a block configuration that connects residential units and open space by prioritizing efficient integration of vehicular, pedestrian and bike mobility systems and improved air quality within new city block arrangements.
 
@@ -66,7 +67,7 @@ According to yang et al, “air pollution in cities may be considered a result o
 
 **"Breathing Blocks" suggests a context-sensitive methodology for the organization of building types within the city block in response to air pollution. Our primary metric, average airflow reduction (%), can be used to analyze both existing and proposed development scenarios to minimize the flow of polluted air into pedestrian areas.** 
 
-![description](.https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_StreetAnalysis.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_StreetAnalysis.png)
 *Mott Haven & Melrose Street Classification*
 
 The project sets up two street types - vehicular ***primary streets*** that generate blocks and carry pollution away from the blocks and ***secondary streets*** that create sheltered pedestrian streets within the blocks. **The goal is to optimize wind-flow within the primary streets and minimize wind flow within the secondary streets, thereby safely moving pollution away from the pedestrian centric public spaces.**

@@ -17,7 +17,9 @@ Between 2010 and 2017, population has increased in neighborhoods across all five
 
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
+
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_background_research_population.jpg)
+
 
 Neighborhoods with high-rise buildings are usually lack of outdoor green spaces provided for every residents due to a dense residential population. 
 
@@ -38,9 +40,11 @@ with enlarged preferable outdoor spaces through varied add-on green systemsï¼Ÿ â
 
 *Equally distributed green space.*
 
+
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_google_map_collage.png)
 
 *Chinatown with design space.*
+
 
 ### Goals and Metrics
 
@@ -59,6 +63,11 @@ Sqft of net green spaces of all types divided by population.
 
 Short distance to green spaces can scatter the population and create equal green resource accessibility for each individual person.
 Daylight hours are necessary and beneficial for vegetation and preferable green spaces.
+
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_vegetation.png)
+
+*Vegetation suitable for NYC Climate.*
+
 
 ### What Did We Discover?
 
@@ -111,8 +120,8 @@ Describe how you are deriving your metric.
 
 [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/types/Podium_Tower_Bridges/Podium%20Tower%20with%20Bridges.md)
 
-![description](../images/PT_DiagramProceduralType.png)
-*Please include a short caption describing your diagram.*
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type_diagram.jpg)
+*Procedural type varies based on parcel size.*
 
 ![description](../images/PT_DiagramProceduralTypeSketch.png)
 *Please include a short caption describing your diagram.*

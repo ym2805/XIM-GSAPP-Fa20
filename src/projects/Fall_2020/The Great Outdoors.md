@@ -7,7 +7,11 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 ***Achieve the extreme urban comfort of outdoor public spaces and explore their relationship to the building typologies and urban fabric layout during Pandemic.***
 
 
-![description]()
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20COVER%20PAGE.png)
+
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/1220%20daylight.pdf)
+
 
 The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs. 
 
@@ -75,7 +79,28 @@ The activiites and walkability will help us to utilize the street spaces by pede
 ### What Did We Discover?
 
 At different population density area, the public space programs would be divided into five different types to meet our goal.
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20discover-01.png)
+
+Outdoor Performance
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%201.png)
+
+Outdoor Eating
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%202.png)
+
+Urban Roof Garden
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%203.png)
+
+
+Bar/ Barbeque Area
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%204.png)
+
+
+Dog Park
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%205.png)
+
+
+
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20FIVE%20TYPES.png)
 
 ```
 “Through the computational design model, we have identified urban population density and public space numbers trends that allows the city
@@ -104,23 +129,17 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 
 ### Analysis Tools
-Walkbility
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20WALKBILITY%20ANALYSIS-01.png)
+Walkbility and Average daylight analysis
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ANALYSIS%20IMAGES-01-01.png)
 
-
-![description](../images/PT_AnalysisToolSummary.png)
-*Please include a short caption describing your diagram.*
-
-Describe how you are deriving your metric.
-
-1. Have a summary image with each analysis tool (examples above)
-1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
 
 #### Custom Tool Name
-![description]()
-*Please include a short caption describing your diagram.*
+Trade off analysis
+Surface area / volumne
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20custom%20tool.jpg)
 
-[Link]() to any packaged analysis tools you have documented and posted.
+
+[Link](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/tools/Network/walkability%20network%20analysis/files/README.md) to network analysis
 
 
 
@@ -150,7 +169,7 @@ Bar/ Barbeque Area, the building height is higher than 200 feet with high popula
 
 Illustrating rules and types of computational design model.
 
-[Link]() to any procedural types you have documented and posted.
+[Link](https://github.com/tterrytang/XIM-GSAPP-Fa20/tree/main/src/types/Tower_on_Podium/files) to procedural types.
 
 
 ### Design Space
@@ -161,7 +180,7 @@ Illustrating rules and types of computational design model.
 
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01-01.png)
 
 ***Urban condition 1 with public space***
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF1.gif)

@@ -222,9 +222,15 @@ Zoom in to talk about the best option(s) and the worst. Take a few images to det
 For the concluding text of your computational design model documentation, think about the following questions as you reinforce the reason why the results your team's model should implemented.
 
 1. How do you recommend the results of your model be used? Who should learn from this?
-1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
-1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
-
+***The model result could be used for researches and scientists who would like to study the extreme condition that high density area with public space intervention urban type***
+***The Department of City Planning (DCP)***
+***CDC WHO***
+***Urban design lab***
+2. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
+***We challenge how the buildings and public shared spaces are planned and designed separatly. We would recommend the results of the model to the District Community Council. The public space for city-use should be included as an essential part of the architectural design. ***
+***To calculate the budget, the construction phases, and the influences to the existing urban context***
+3. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
+****Limitation: the model only suit for the high density urban area, and particilarlly, during the post COVID19 era. It could carry the further concept and meaning if the model type suit for different urban condition that we would like to challeng the relationship of public space and highrise buildings***
 
 
 

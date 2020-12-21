@@ -1,6 +1,6 @@
 ### Podium Towers with Bridges
 
-![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Podium_Tower_Bridge_1.jpg) 
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Podium_Tower_Bridge_1.png) 
 
 ### Type Description
 

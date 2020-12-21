@@ -10,7 +10,7 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20COVER%20PAGE.png)
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/1220%20daylight.pdf)
+![description]()
 
 
 The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs. 
@@ -52,10 +52,10 @@ The introduction image indicates that the design computational model involved wi
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%203.png)
 
 
-### Google earth map photo collage ###
+### Photo collage ###
 
 ![description]()
-Short caption
+
 
 
 ### Goals and Metrics
@@ -130,7 +130,7 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 ### Analysis Tools
 Walkbility and Average daylight analysis
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ANALYSIS%20IMAGES-01-01.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/1220%20final%20analysis-01.png)
 
 
 #### Custom Tool Name

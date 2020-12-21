@@ -51,6 +51,7 @@ Distance to green spaces including ground travel distance and vertical travel di
 
 #### 2. Daylight Hours
 Daylight hours of green spaces from April to Octorber that have at least 6-hour daylight.
+
 *Measuring at the height of trees (12 meters above the ground).*
 
 #### 3. Green Space Area per person 

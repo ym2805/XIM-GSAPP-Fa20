@@ -11,7 +11,7 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 
 
 
-The introduction image indicates how the model of design computational model influences and reshapes the New York city fabric in the future scenario.  
+The introduction image indicates how the design of computational model influences and reshapes the New York city fabric in the future scenario.  
 
 <br />
 
@@ -24,6 +24,10 @@ The introduction image indicates how the model of design computational model inf
 
 
 ***In the wake of a global pandemic, communities desperately seek out public areas, particularly open space. Yet, the overall activity for the city lagged.***
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R1.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R2.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R3.png)
 
 
 ```

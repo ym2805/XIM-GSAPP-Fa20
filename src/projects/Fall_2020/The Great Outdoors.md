@@ -268,6 +268,8 @@ When diversity is increased, that is when population density is increased and po
 
 ### Conclusions and Next Steps
 
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/final%20models%201221.png)
+
 
 ***The model result could be used for researches and scientists who would like to study the extreme condition that high density area with public space intervention urban type***
 

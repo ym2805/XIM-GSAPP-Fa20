@@ -78,6 +78,8 @@ The introduction image indicates how the design of computational model influence
 
 3.Evaluate the successfulness of public space in contemporary as well as future times. 
 
+4.Suggest how future city residents could adapt their daily habits to the rapidly changing public space environments. 
+
 
 ### What Did We Discover?
 
@@ -202,7 +204,8 @@ For example,
 
 ### Results
 
-Were certain metrics inconclusive? Were there unexpected correlations? What are the GENERAL trends in your data? What are your SPECIFIC insights/findings? You can annotate right on top of Scout screenshots or translate insights to diagrams. How does performance (metrics) relate to form (inputs)?
+We found that the greater the building compactness, the worse for the walkability.
+The higher density the daylight could have different performance, because it realted to the building compactness and street options
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/scout%20animate.gif)
 

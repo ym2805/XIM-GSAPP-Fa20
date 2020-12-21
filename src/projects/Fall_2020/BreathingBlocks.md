@@ -3,7 +3,7 @@
 
 The project proposes a block configuration in the Bronx neighborhoods of Melrose and Mott Haven that **weaves public infrastructure, urban landscape, public-private spaces and multimodal systems into a network of breathing urban blocks.** This network aims to reduce air pollution by re-thinking building type arrangements within the city block and redirecting street airflows in response to local wind patterns and seasonal changes.
 
-![description](../images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_WindAnalysis1.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_WindAnalysis1.png)
 *The Project Methodology interfaces with building types, streets, parcels and wind vectors in order to suggest amenable conditions for urban depollution.*
 
 <br />

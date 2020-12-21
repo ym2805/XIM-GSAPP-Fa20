@@ -6,16 +6,16 @@
 ### Type Description
 
 
-![description](../images/tools/public_space_daylight4.png)
+![description](../images/public_space_daylight4.png)
 
 
-![description](../images/tools/public_space_daylight3.png)
+![description](../images/public_space_daylight3.png)
 
 
-![description](../images/tools/public_space_daylight2.png)
+![description](../images/public_space_daylight2.png)
 
 
-![description](../images/tools/public_space_daylight1.png)
+![description](../images/public_space_daylight1.png)
 
 ### Required inputs
 

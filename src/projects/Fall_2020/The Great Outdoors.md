@@ -204,8 +204,8 @@ For example,
 
 Were certain metrics inconclusive? Were there unexpected correlations? What are the GENERAL trends in your data? What are your SPECIFIC insights/findings? You can annotate right on top of Scout screenshots or translate insights to diagrams. How does performance (metrics) relate to form (inputs)?
 
-![description]()
-*Please include a short caption describing your diagram.*
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/scout%20animate.gif)
+
 
 ### Design Comparison
 

@@ -13,7 +13,8 @@
 
 <br />
 
-Between 2010 and 2017, population has increased in neighborhoods across all five boroughs of NYC, but has decreased in Chinatown area. 
+Between 2010 and 2017, population has increased in neighborhoods across all five boroughs of NYC, but decreased in Chinatown area. 
+
 Chinatown residents identified housing as the major issue they care most about as they live in the less affluent area.
 
 ![description](../images/B_background_research_population.jpg)
@@ -25,7 +26,7 @@ Yet, green spaces are essential for people’s health and can be achieved throug
 ### Problem Statement
 
 Extreme environmental and health issues are shifting real estate values towards greater access to open spaces over transits in NYC.
-How will China town act to maximize accessibility to green spaces for low-income residents affected by city-wide gentrification?
+How will Chinatown act to maximize accessibility to green spaces for low-income residents affected by city-wide gentrification?
 
 ```
 “What if increasing the population of Chinatown through a high FAR neighborhood 
@@ -43,7 +44,7 @@ with enlarged preferable outdoor spaces through varied add-on green systems？ �
 Distance to green spaces including ground travel distance and vertical travel distance from each floor. 
 
 #### Daylight Hours
-Daylight hours of green spaces from April to Octorber that have at least 6-hr daylight.
+Daylight hours of green spaces from April to Octorber that have at least 6-hour daylight.
 
 *Measuring at the height of trees (12 meters above the ground).*
 

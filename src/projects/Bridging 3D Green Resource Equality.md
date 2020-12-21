@@ -71,7 +71,7 @@ Daylight hours are necessary and beneficial for vegetation and preferable green 
 ```
 “Through the computational design model, we have identified:
 
-balconies with vertical forests, courtyards with green gardens, and bridges with public green spaces 
+terraces with vertical forests, courtyards with green gardens, and bridges with public green spaces 
 
 that allows the neighborhood to address high density while achieving desirable green spaces for each person.”
 ```
@@ -94,12 +94,14 @@ that allows the neighborhood to address high density while achieving desirable g
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Metric%20Diagram-02.png)
 *Metrics on Walkability, Green Space and Daylight.*
 
+#### Distance to Green Space - 3D Network
 
-#### Custom Tool Name
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/XIM%20TOOL%20DIAGRAM-02.png)
 *Distance to green space are measured based on a 3D network.*
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/tools) to any packaged analysis tools you have documented and posted.
 
+Custom Tool Page [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/tools/Network/Distance_to_Green_Space/Distance%20to%20Green%20Space%20-%203D%20Network)
+
+#### Direct Sunlight Hours for Trees
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Metric%20Diagram-01.png)
 *Direct sunlight hours to trees.*
@@ -107,16 +109,12 @@ that allows the neighborhood to address high density while achieving desirable g
 
 ### Procedural Types
 
-![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type.jpg)
-
-
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_input.png)
 *Input diagram.*
 
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type.jpg)
 
-#### Podium Tower with Bridges
-
-[Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/types/Podium_Tower_Bridges/Podium%20Tower%20with%20Bridges.md)
+Procedural Type [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/types/Podium_Tower_Bridges/Podium%20Tower%20with%20Bridges.md)
 
 
 ### Design Space

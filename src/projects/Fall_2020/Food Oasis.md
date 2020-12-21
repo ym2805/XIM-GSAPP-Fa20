@@ -156,7 +156,7 @@ From the models we are able to compare how the different senarios are influencin
 
 The Tower to garden ratio fluctuate between 0.2 and 0.35. The highest senario is radial street, 13000 floor area, 3 FAR, 3000 min sf, center attraction, and the lowest is straight grid street, 15500 floor area, 5 FAR, 2000 min sf for courtyard, and river attraction type. The garden area senario is 18000 floor area, 3 FAR, 3000 min sf courtyard, central density distribution, and the lowest is diagonal street, 13000 floor area, 5 far, 2000 min sf courtyard and river attraction type.
 
-![results](../images/VS_BST Wilson SkylarRoyal RasamAminzadeh HaoChang FA20 13 comparison.png)
+![results](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/images/VS_BST%20Wilson%20SkylarRoyal%20RasamAminzadeh%20HaoChang%20FA20%2013%20comparison.png)
 
 ### Conclusions and Next Steps
 

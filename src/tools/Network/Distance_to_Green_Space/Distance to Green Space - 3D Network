@@ -53,9 +53,9 @@ corresponding with walkability to both ground parks and bridges.
 
 1. Make sure each individual building is booleanunioned to one brep.
 2. Make sure to have existing parks, new procedural parks and bridges as three individual inputs.
-2. Merge existing parks and new procedural parks first for ground travel distance caculation. 
-3. Merge all three for network analysis and green area per person metric if desired.
-4. Make sure building facade segment are capped to closed breps for visualization. 
+3. Merge existing parks and new procedural parks first for ground travel distance caculation. 
+4. Merge all three for network analysis and green area per person metric if desired.
+5. Make sure building facade segment are capped to closed breps for visualization. 
 
 
 ### Sources, Calculations + Metrics

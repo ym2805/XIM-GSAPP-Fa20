@@ -19,13 +19,13 @@ Bridges are created on the 30th, 60th and 75th floor, based on building bridging
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Podium_Tower_Bridge_2.jpg)
 
-### Use Type If: 
+### Use Type If
 
 1. Use this type if you want to create more green/open spaces.
 2. Use this type if you are working on high towers in a dense neighborhood.
 3. Use this type if you would like to try a different type of green/open space.
 
-### Not Recommended to Use Type If:
+### Not Recommended to Use Type If
 
 1. Do not use this type if you have low FAR/density.
 2. Do not use this type if your site has mixed-zoning. 

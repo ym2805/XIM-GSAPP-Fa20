@@ -108,16 +108,11 @@ Walkbility and Average daylight analysis
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ANALYSIS%20IMAGES-01-01.png)
 
 
-
-
-
-
-
-
 #### Custom Tool Name
 Trade off analysis
-![description]()
-*Please include a short caption describing your diagram.*
+Surface area / volumne
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20custom%20tool.jpg)
+
 
 [Link]() to any packaged analysis tools you have documented and posted.
 
@@ -149,7 +144,7 @@ Bar/ Barbeque Area, the building height is higher than 200 feet with high popula
 
 Illustrating rules and types of computational design model.
 
-[Link]() to any procedural types you have documented and posted.
+[Link](https://github.com/tterrytang/XIM-GSAPP-Fa20/tree/main/src/types/Tower_on_Podium/files) to procedural types.
 
 
 ### Design Space

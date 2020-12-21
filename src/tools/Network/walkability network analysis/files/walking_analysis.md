@@ -45,7 +45,7 @@ Make sure select the point as the start point, or the building as the start poin
 
 [Rhino File]()
 
-[Grasshopper File]()
+[Grasshopper File](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/tools/Network/walkability%20network%20analysis/files/20201220_Walkability%20Analysis.gh)
 
 
 

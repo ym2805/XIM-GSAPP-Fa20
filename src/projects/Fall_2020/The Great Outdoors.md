@@ -272,22 +272,22 @@ When diversity is increased, that is when population density is increased and po
 ***The model result could be used for researches and scientists who would like to study the extreme condition that high density area with public space intervention urban type***
 
 Such as 
-***The Department of City Planning (DCP)***
+The Department of City Planning (DCP)
 
-***CDC*** 
+CDC
 
-***WHO***
+WHO
 
-***Urban design lab***
-
-
-***We challenge how the buildings and public shared spaces are planned and designed separately. We would recommend the results of the model to the District Community Council. The public space for city-use should be included as an essential part of the architectural design***
+Urban design lab
 
 
-***To calculate the budget, the construction phases, and the influences to the existing urban context***
+We challenge how the buildings and public shared spaces are planned and designed separately. We would recommend the results of the model to the District Community Council. The public space for city-use should be included as an essential part of the architectural design
 
 
-****Limitation: the model only suit for the high density urban area, and particularly, during the post COVID19 era. It could carry the further concept and meaning if the model type suit for different urban condition that we would like to challenge the relationship of public space and highrise buildings***
+To calculate the budget, the construction phases, and the influences to the existing urban context
+
+
+Limitation: the model only suit for the high density urban area, and particularly, during the post COVID19 era. It could carry the further concept and meaning if the model type suit for different urban condition that we would like to challenge the relationship of public space and highrise buildings
 
 
 

@@ -11,7 +11,7 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 
 
 
-The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs. 
+The introduction image indicates how the model of design computational model influences and reshapes the New York city fabric in the future scenario.  
 
 <br />
 
@@ -23,13 +23,7 @@ The introduction image indicates that the design computational model involved wi
 
 
 
-***In wake of a global pandemic, places around the world desperately seek out public arenas, in particular, open street space. Yet, the overall activity for the city lagged behind***
-
-```
-“What if, enlarged the public space and provided amenity programs are achieved through decreasing the transportation pressure?”
-```
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%201.png)
-
+***In the wake of a global pandemic, communities desperately seek out public areas, particularly open space. Yet, the overall activity for the city lagged.***
 
 
 ```
@@ -45,7 +39,7 @@ The introduction image indicates that the design computational model involved wi
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq5.jpg)
 
 ```
-“What if, increased area of public spaces are fragmented and temporarily privatized through shrinking of the existing cities blocks?”
+“What if, increased area of public spaces are fragmented and temporarily privatized through carving out of the existing cities blocks?”
 ```
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%203.png)
 
@@ -59,9 +53,10 @@ The introduction image indicates that the design computational model involved wi
 ### Goals and Metrics
 
 ***Metrics***
-1. Average daily hours analysis
-2. Number of outdoor eating within 8 mins walking
-3. Surface area/ volume normailzed by a extruded tower
+
+1. Walkability Analysis: number of outdoor dining within 8min walk
+2. Daylight Analysis: avergae daylight hour for analysid area
+3. Building Compactness Analysis: surface area to volume ratio
 
 ***Goal***
 

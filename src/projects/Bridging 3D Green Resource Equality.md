@@ -86,44 +86,37 @@ that allows the neighborhood to address high density while achieving desirable g
 
 <br />
 
-![description](../images/B_procedural_type_diagram)
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type_diagram.jpg)
 *Procedural types are determined by parcel size.*
 
 
 ### Analysis Tools
-![description](../images/PT_SummaryAnalysisTool.png)
-*Please include a short caption describing your diagram.*
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Metric%20Diagram-02.png)
+*Metrics on Walkability, Green Space and Daylight.*
 
-![description](../images/PT_AnalysisToolSummary.png)
-*Please include a short caption describing your diagram.*
-
-Describe how you are deriving your metric.
-
-1. Have a summary image with each analysis tool (examples above)
-1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
 
 #### Custom Tool Name
-![description](../images/PT_ExampleToolExplanation.png)
-*Please include a short caption describing your diagram.*
-
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/XIM%20TOOL%20DIAGRAM-02.png)
+*Distance to green space are measured based on a 3D network.*
 [Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/tools) to any packaged analysis tools you have documented and posted.
 
+
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Metric%20Diagram-01.png)
+*Direct sunlight hours to trees.*
 
 
 ### Procedural Types
 
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type.jpg)
+
+
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_input.png)
+*Input diagram.*
+
+
 #### Podium Tower with Bridges
 
 [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/types/Podium_Tower_Bridges/Podium%20Tower%20with%20Bridges.md)
-
-![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type_diagram.jpg)
-*Procedural type varies based on parcel size.*
-
-![description](../images/PT_DiagramProceduralTypeSketch.png)
-*Please include a short caption describing your diagram.*
-
-It is encouraged to use sketching when illustrating rules and types of your computational design model.
-*Please include a short caption describing your diagram.*
 
 
 ### Design Space

@@ -51,7 +51,8 @@ corresponding with walkability to both ground parks and bridges.
 
 ### Modeling Standards
 
-1. Make sure to have existing parks, new procedural parks and bridges as three individual inputs.
+1. Make sure each individual building is booleanunioned to one brep.
+2. Make sure to have existing parks, new procedural parks and bridges as three individual inputs.
 2. Merge existing parks and new procedural parks first for ground travel distance caculation. 
 3. Merge all three for network analysis and green area per person metric if desired.
 4. Make sure building facade segment are capped to closed breps for visualization. 

@@ -104,8 +104,8 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 
 ### Analysis Tools
-Walkbility                                                                                 Average daylight analysis
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ANALYSIS%20IMAGES-01.png)
+Walkbility and Average daylight analysis
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ANALYSIS%20IMAGES-01-01.png)
 
 
 

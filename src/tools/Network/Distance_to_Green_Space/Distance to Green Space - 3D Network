@@ -62,3 +62,8 @@ corresponding with walkability to both ground parks and bridges.
 
 1. Walking Distance to Green Spaces in a 3D network.
 2. Sqft of green spaces per person in the area.
+
+
+### Context & Limitation
+
+The visualization of green space in this tool represents the walkability to ground parks and bridges, but not the open spaces in courtyard typology or balconies.

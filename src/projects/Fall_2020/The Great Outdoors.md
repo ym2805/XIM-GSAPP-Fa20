@@ -72,13 +72,11 @@ The introduction image indicates how the design of computational model influence
 
 ***Goal***
 
-To understand how cityscape as dense and developed as New York could adapt to changing need of public in order to increase over all activity. Evaluate the successfulness of city streets in contemporary as well as future times. Explore how public spaces can reshape the urban fabric/layout.
+1.Understand how a cityscape as dense and developed as New York could adapt to the changing need for public space under the Pandemic. 
 
-The sunlight exposure will be based on seasons within the year the average sunlight more than 6-hours exposure community will be determined as a comfortable community
-The thermal analysis will indicates level of Comfort
-The activiites and walkability will help us to utilize the street spaces by pedestrians and adjacent tenants as well as activities within larger context.
+2.Explore how public spaces can reshape the urban fabric/layout.
 
-***We expect to find a comfortable community or a urban context needs at least 6 hours sunlight exposure, the enough public space as well as the different programs to meet the requirment. Moreover, the public space accessible within 10 mins based on different walkability path.*** 
+3.Evaluate the successfulness of public space in contemporary as well as future times. 
 
 
 ### What Did We Discover?

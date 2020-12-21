@@ -133,11 +133,11 @@ Procedural Type [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/ty
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_gif.gif)
 
-
 ### Results
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_project%20image.jpg)
 
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_screenshot.jpg)
 
 ### Conclusions and Next Steps
 

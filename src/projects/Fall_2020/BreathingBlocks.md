@@ -1,4 +1,6 @@
 # Breathing Blocks
+By Anirudh Chandar, Camila Núñez, Luis Miguel Pizano
+
 ### An Exploration of Spatial Form and Air Pollution
 
 The project proposes a block configuration in the Bronx neighborhoods of Melrose and Mott Haven that **weaves public infrastructure, urban landscape, public-private spaces and multimodal systems into a network of breathing urban blocks.** This network aims to reduce air pollution by re-thinking building type arrangements within the city block and redirecting street airflows in response to local wind patterns and seasonal changes.

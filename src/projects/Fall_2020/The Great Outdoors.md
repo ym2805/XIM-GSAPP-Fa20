@@ -236,17 +236,35 @@ Worst - While compactness is measured in relation to its own, we noticed that bu
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/c%20w.gif)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Best - Contrary, although higher buildings, those with more population density needs, take longer to travel (vertically); they are highly efficient as surface area is minimized while volume is maximized. However, public space type-bar requires more surface area due to its nesting nature and must be considered matching its building performance efficiencies
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/c%20b.gif)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparison image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example, it could be the existing context or an option with your target density but with traditional development patterns (i.e., densification without design innovation.)
+**Sunlight(Diversity)**
 
-Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data. 
+Measuring each public space type independently from one another, we were able to identify best, worst case while understanding the diversity element of each design space. For example, we found that in one scenario although both public spaces (performance and outdoor dining) are receiving adequate sunlight the diversity among public space types is low. 
 
-Zoom in to talk about the best option(s) and the worst. Take a few images to detail why these options perform well or poorly. The point of this entire exercise is to create a data-driven methodology for making DECISIONS, so choose which option or options are the best and defend those choices.
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/L_Low.gif)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/L_High.gif)
+
+
+When diversity is increased, that is when population density is increased and population variation is high, each public space receive less sunlight as building blocks become less uniformly distributed and more subjected to shadows.
+
+
+
+
+
+***Inclusion we present the scenario with high public space type variation and most adequate sunlight received by not one, but all spaces. The scenario below perform the best when accessibility and compactness are both considered.***
+
+
 
 ### Conclusions and Next Steps
 

@@ -28,9 +28,7 @@ Bridges are created on the 30th, 60th and 75th floor, based on building bridging
 ### Not Recommended to Use Type If:
 
 1. Do not use this type if you have low FAR/density.
-2. Do not use this type if you have mix use buildings on site. Then it may not be reasonable to connect buildings for different functions.
-
-Add image here to further illustrate your point
+2. Do not use this type if your site has mixed-zoning. 
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Podium_Tower_Bridge_3.png)
 

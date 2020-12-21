@@ -5,18 +5,17 @@
 ### Type Description
 
 This collection of structures introduces the way in which the add-on bridging system can be built and modified. Green spaces are created to connect buildings as bridges. 
-The Grasshopper procedural models help build bridges at according to the distance between buildings and building height.
+The Grasshopper procedural models help build and modify bridges according to the distance between buildings and the bridge height. All follow user inputs and pre-set procedural rules.
 
 ### Required inputs 
 
-Required inputs: FAR/ Density, attractor geometry, etc. Dynamic vs static. Dynamic: Lots and FAR. Static: Floor to Floor Height
+Dynamic: FAR/ Density, Attractor Point, Number of Bridges
+
+Static: Floor Height, Building to Building Distance, Bridge Height, Bridge Width
 
 ### Type Rules 
 
-1. 1 to 3 sentences describing the procedural rules 
-1. Add image that shows the range of variability for the type. Try to make it explanatory of what rules are, not just what the output looks like.
-
-Add image here to further illustrate your point.
+Bridges are created on the 30th, 60th and 75th floor, based on building bridging distance between 480-500, 380-400 and 600-630 correspondingly.
 
 ![description](../images/gh_procedural_type_ex3.jpg)
 

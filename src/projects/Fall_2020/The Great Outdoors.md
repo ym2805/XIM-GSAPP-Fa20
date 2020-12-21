@@ -221,10 +221,13 @@ Zoom in to talk about the best option(s) and the worst. Take a few images to det
 
 
 ***The model result could be used for researches and scientists who would like to study the extreme condition that high density area with public space intervention urban type***
+
 Such as 
 ***The Department of City Planning (DCP)***
 
-***CDC WHO***
+***CDC 
+
+***WHO***
 
 ***Urban design lab***
 

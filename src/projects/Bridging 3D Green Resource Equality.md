@@ -1,5 +1,3 @@
-Project Team: Fan Liu, Yuanming Ma, Tian Yao, Wanting Sun
-
 # Bridging 3D Green Resource Equality
 
 **Using bridges as an add-on system together with other green space types to improve overall living conditions.**

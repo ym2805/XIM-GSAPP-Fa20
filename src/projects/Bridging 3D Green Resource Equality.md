@@ -38,6 +38,10 @@ with enlarged preferable outdoor spaces through varied add-on green systemsï¼Ÿ â
 
 *Green spaces are equally distributed.*
 
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_google_map_collage.png)
+
+*Chinatown with design space.*
+
 ### Goals and Metrics
 
 #### Walkability
@@ -47,6 +51,9 @@ Distance to green spaces including ground travel distance and vertical travel di
 Daylight hours of green spaces from April to Octorber that have at least 6-hour daylight.
 
 *Measuring at the height of trees (12 meters above the ground).*
+
+#### Green Space Area per person 
+Sqft of net green spaces of all types divided by population.
 
 ### Why?
 
@@ -100,9 +107,9 @@ Describe how you are deriving your metric.
 
 ### Procedural Types
 
-This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. 
+#### Podium Tower with Bridges
 
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/types) to any procedural types you have documented and posted.
+[Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/types/Podium_Tower_Bridges/Podium%20Tower%20with%20Bridges.md)
 
 ![description](../images/PT_DiagramProceduralType.png)
 *Please include a short caption describing your diagram.*

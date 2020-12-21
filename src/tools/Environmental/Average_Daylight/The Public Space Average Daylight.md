@@ -6,13 +6,13 @@
 ### Type Description
 
 
-![description](../images/public_space_daylight4.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/public_space_daylight4.png)
 
 
-![description](../images/public_space_daylight3.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/public_space_daylight3.png)
 
 
-![description](../images/public_space_daylight2.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/public_space_daylight2.png)
 
 
 ![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/public_space_daylight1.png)

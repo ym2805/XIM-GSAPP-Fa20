@@ -225,7 +225,7 @@ Zoom in to talk about the best option(s) and the worst. Take a few images to det
 Such as 
 ***The Department of City Planning (DCP)***
 
-***CDC 
+***CDC*** 
 
 ***WHO***
 

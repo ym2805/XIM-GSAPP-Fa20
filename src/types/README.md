@@ -1,4 +1,4 @@
-# Courtyard Type For Any Lot Size
+# Bridges Between Buildings
 
 ![description](../images/gh_procedural_type_ex4.jpg)
 
@@ -6,7 +6,7 @@
 
 ### Type Description 
 
-This collection of structures explores the ways in which the courtyard building typology can be built and modified. This Grasshopper procedural type helps divide the lots into different groups to create a horizontal and vertical courtyard as well as solid structure, all following user inputs and pre-set procedural rules.
+This collection of structures explores the ways in which bridging building typology can be built and modified. This Grasshopper procedural type helps divide the lots into different groups to create a horizontal and vertical courtyard as well as solid structure, all following user inputs and pre-set procedural rules.
 
 ### Required inputs 
 

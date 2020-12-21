@@ -133,11 +133,11 @@ Procedural Type [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/ty
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_gif.gif)
 
-
 ```
-For example,
 “What if’s . . .”
 ```
+
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_screenshot.gif)
 
 ### Results
 

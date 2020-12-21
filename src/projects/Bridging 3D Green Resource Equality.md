@@ -104,7 +104,6 @@ Custom Tool Page [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/t
 #### Direct Sunlight Hours for Trees
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Metric%20Diagram-01.png)
-*Direct sunlight hours to trees.*
 
 
 ### Procedural Types
@@ -119,11 +118,9 @@ Procedural Type [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/ty
 
 ### Design Space
 
-This section should be descriptive of your team's input ranges, the reasoning why you picked that range and explanation of what you left out. 
-
 ```
 For example,
-"I’m varying this input in this range because of X."
+"FAR varies because we want a combination of different procedural types and green space types."
 ```
 
 Please include simple diagram(s) that illustrate extremes of the design space, animated gif of design space and computational model table. The diagrams and animations should be CLEAR and SIMPLE. These can be animations showing how your model changes one variable at a time, still images explaining the variables, or other drawing types, but you must break down the complexity of your project into intelligible pieces.
@@ -176,8 +173,3 @@ For the concluding text of your computational design model documentation, think 
 1. How do you recommend the results of your model be used? Who should learn from this?
 1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
 1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
-
-
-### Overall format and flow of text:
-
-For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.

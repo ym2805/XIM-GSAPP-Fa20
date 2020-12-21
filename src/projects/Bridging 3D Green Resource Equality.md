@@ -37,26 +37,23 @@ with enlarged preferable outdoor spaces through varied add-on green systemsï¼Ÿ â
 ```
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_photo_collage.png)
-
 *Equally distributed green space.*
 
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_google_map_collage.png)
-
 *Chinatown with design space.*
 
 
 ### Goals and Metrics
 
-#### Walkability
+#### 1. Walkability
 Distance to green spaces including ground travel distance and vertical travel distance from each floor. 
 
-#### Daylight Hours
+#### 2. Daylight Hours
 Daylight hours of green spaces from April to Octorber that have at least 6-hour daylight.
-
 *Measuring at the height of trees (12 meters above the ground).*
 
-#### Green Space Area per person 
+#### 3. Green Space Area per person 
 Sqft of net green spaces of all types divided by population.
 
 ### Why?
@@ -65,7 +62,6 @@ Short distance to green spaces can scatter the population and create equal green
 Daylight hours are necessary and beneficial for vegetation and preferable green spaces.
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_vegetation.png)
-
 *Vegetation suitable for NYC Climate.*
 
 
@@ -90,7 +86,6 @@ that allows the neighborhood to address high density while achieving desirable g
 <br />
 
 ![description](../images/B_procedural_type_diagram)
-
 *Procedural types are determined by parcel size.*
 
 

@@ -133,8 +133,8 @@ Walkbility and Average daylight analysis
 
 #### Custom Tool Name
 Trade off analysis
-Surface area / volumne
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20custom%20tool.jpg)
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/analysis%2033.png)
 
 
 [Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Network/walkability%20network%20analysis/files/walking_analysis.md) to network analysis

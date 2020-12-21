@@ -108,8 +108,11 @@ Custom Tool Page [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/t
 
 ### Procedural Types
 
+#### Inputs
+
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_input.png)
-*Input diagram.*
+
+#### Types and Rules
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_procedural_type.jpg)
 
@@ -168,8 +171,8 @@ Zoom in to talk about the best option(s) and the worst. Take a few images to det
 
 ### Conclusions and Next Steps
 
-For the concluding text of your computational design model documentation, think about the following questions as you reinforce the reason why the results your team's model should implemented.
-
-1. How do you recommend the results of your model be used? Who should learn from this?
-1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
-1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
+1. We recommend select middle parcel size as input to allow a controllable number of high podium towers with bridges.
+2. If applying this model as a proof-of-concept across city, the next step we recommend is to understand the zoning requirement for each neighborhood.
+*FAR as input is important. Bridging System also needs to apply in areas that are programatically suitable.*
+3. Whether to apply this model in a neighborhood requires a fundamental understanding of its social-economical and cultural context. 
+Bias may exist without a comprehensive preliminary research of the site.

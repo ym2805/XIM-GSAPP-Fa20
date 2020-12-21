@@ -86,7 +86,7 @@ The introduction image indicates how the design of computational model influence
 At different population density area, the public space programs would be divided into five different types to meet our goal.
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/typesssss-01.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/final%20types%20final-01.png)
 
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20FIVE%20TYPES.png)
@@ -142,11 +142,11 @@ They are restricted by the urban density and building height.
 
 Outdoor Performance, the building height below 120 feet with low population density.
   
-Outdoor Eating, the building height below 120 feet with mid population density.
+Outdoor Eating, the building height below 120 feet with low population density.
 
-Urban Roof Garden, the building height is equal to 120 feet with high population density.
+Urban Roof Garden, the building height is between 120-200 feet with mid population density.
 
-Dog Park, the building height is higher than 200 feet with mid population density.
+Dog Park, the building height is higher than 200 feet with high population density.
 
 Bar/ Barbeque Area, the building height is higher than 200 feet with high population density.
 

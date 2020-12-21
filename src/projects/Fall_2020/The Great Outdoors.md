@@ -212,7 +212,7 @@ The higher density the daylight could have different performance, because it rea
 
 ### Design Comparison
 
-Walkability
+***Walkability***
 
 Worst - We discovered that the typical New York street grid is most inefficient at connecting adjacent attraction points; in our case, we measured the accessibility to out-door dining type with in 10 minutes walking radius. Scenario 1, with high vertical travel distance caused by high population density, produced a situation where residents on average will only access 3.6 restaurants within 10 minutes.
 
@@ -225,7 +225,21 @@ Best - The best scenario for walking around our future mega block is in fact a c
 
 
 
+***Compactness***
 
+As the type of public space directly affects our building typology, we took into account the efficiency of building by measuring their compactness, expressed through a ratio (SA/VOL). 
+
+
+
+Worst - While compactness is measured in relation to its own, we noticed that building with lower height is most inefficient as site footprint has not been maximized to achieve most volume.
+
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/c%20w.gif)
+
+
+Best - Contrary, although higher buildings, those with more population density needs, take longer to travel (vertically); they are highly efficient as surface area is minimized while volume is maximized. However, public space type-bar requires more surface area due to its nesting nature and must be considered matching its building performance efficiencies
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/c%20b.gif)
 
 
 Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparison image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example, it could be the existing context or an option with your target density but with traditional development patterns (i.e., densification without design innovation.)

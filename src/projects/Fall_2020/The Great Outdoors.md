@@ -212,6 +212,22 @@ The higher density the daylight could have different performance, because it rea
 
 ### Design Comparison
 
+Walkability
+
+Worst - We discovered that the typical New York street grid is most inefficient at connecting adjacent attraction points; in our case, we measured the accessibility to out-door dining type with in 10 minutes walking radius. Scenario 1, with high vertical travel distance caused by high population density, produced a situation where residents on average will only access 3.6 restaurants within 10 minutes.
+
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/worse.gif)
+
+Best - The best scenario for walking around our future mega block is in fact a centralized street grid system. With more than four side intersections matched with a lower population density, the average number of outdoor dining locations a resident enjoy on a typical day is high in the 40s (48.3)
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/best.gif)
+
+
+
+
+
+
 Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparison image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example, it could be the existing context or an option with your target density but with traditional development patterns (i.e., densification without design innovation.)
 
 Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data. 

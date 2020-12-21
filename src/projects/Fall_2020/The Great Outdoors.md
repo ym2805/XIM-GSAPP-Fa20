@@ -28,9 +28,11 @@ The introduction image indicates how the design of computational model influence
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R1.png)
 
 ------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R2.png)
 
+----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/R3.png)

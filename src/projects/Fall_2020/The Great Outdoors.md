@@ -9,6 +9,10 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20COVER%20PAGE.png)
 
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/1220%20daylight.pdf)
+
+
 The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs. 
 
 <br />
@@ -135,7 +139,7 @@ Surface area / volumne
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20custom%20tool.jpg)
 
 
-[Link]() to any packaged analysis tools you have documented and posted.
+[Link](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/tools/Network/walkability%20network%20analysis/files/README.md) to network analysis
 
 
 

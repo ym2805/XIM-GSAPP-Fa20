@@ -17,7 +17,7 @@ Static: Floor Height, Building to Building Distance, Bridge Height, Bridge Width
 
 Bridges are created on the 30th, 60th and 75th floor, based on building bridging distance between 480-500, 380-400 and 600-630 correspondingly.
 
-![description](../images/gh_procedural_type_ex3.jpg)
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Podium_Tower_Bridge_2.jpg)
 
 ### Use Type If: 
 

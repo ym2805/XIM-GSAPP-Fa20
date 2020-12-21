@@ -7,7 +7,7 @@ Team: Yuan Chen, Jiajie Zhao, Xian Wu, Ziang Tang
 ***Achieve the extreme urban comfort of outdoor public spaces and explore their relationship to the building typologies and urban fabric layout during Pandemic.***
 
 
-![description]()
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20COVER%20PAGE.png)
 
 The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs. 
 

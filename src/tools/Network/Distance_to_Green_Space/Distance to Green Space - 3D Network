@@ -24,8 +24,6 @@ corresponding with walkability to both ground parks and bridges.
 9. Generate building facade by per 3 floors. This will be shown for visualization. (Not curves, but building facade segments.)
 10. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
 
-![description](../images/grasshopper_tree.jpg)
-
 
 <b> Troubleshooting </b>
 
@@ -43,9 +41,12 @@ corresponding with walkability to both ground parks and bridges.
 
 ### Required Files
 
-[Rhino File](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/tools/Network/Distance_to_Green_Space/files/Walking%20Distance%20to%20Park.3dm)
+[Rhino File](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/tools/Network/Distance_to_Green_Space/files/Distance_to_Green_Space.3dm)
 
-[Grasshopper File](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/tools/Network/Distance_to_Green_Space/files/Walking%20Distance%20to%20Park.gh)
+[Grasshopper File](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/tools/Network/Distance_to_Green_Space/files/Distance_to_Green_Space.gh)
+
+
+![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Distance_to_Green_Space_1.png)
 
 
 ### Modeling Standards

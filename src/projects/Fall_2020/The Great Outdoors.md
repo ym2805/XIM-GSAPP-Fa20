@@ -104,14 +104,14 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 
 ### Analysis Tools
-Walkbility
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20WALKBILITY%20ANALYSIS-01.png)
+Walkbility                                                                                 Average daylight analysis
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20ANALYSIS%20IMAGES-01.png)
 
 
 
-Average daylight analysis
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20Daylight%20Analysis-01-01.png)
+
+
 
 
 #### Custom Tool Name
@@ -160,7 +160,7 @@ Illustrating rules and types of computational design model.
 
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01.png)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20final%20design%20space-01-01.png)
 
 ***Urban condition 1 with public space***
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF1.gif)

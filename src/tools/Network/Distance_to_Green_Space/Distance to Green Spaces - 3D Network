@@ -1,4 +1,4 @@
-# Distance to Green Spaces - 3D Network
+# Visibility Quality Tool
 <!--add your title on the first line above-->
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
@@ -27,9 +27,9 @@ This is a basic description of the tool that is simple enough that for anyone to
 
 ![description](../images/grasshopper_tree.jpg)
 
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/grasshopper_tree.jpg) -->
+<!-- ![description of image](/XIM-GSAPP-Fa20/images/grasshopper_tree.JPG) -->
 
-#### Troubleshooting
+<b> Troubleshooting </b>
 
 Make sure to properly load the context as it is crucial for to test visibility quality
 
@@ -37,18 +37,13 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 
+(../files/Analysis Tool Example.3dm)
+link Analysis Tool Example.gh
+link grasshopper_tree.jpg
+link Analysis Tool Example.ai
+(../files/Analysis Tool Example.3dm)
 
-#### Required Files
-
-[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/files/Analysis%20Tool%20Example.3dm)
-
-[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/files/Analysis%20Tool%20Example.gh)
-
-
-![description](../images/tool_example_4.jpg)
-
-
-<br />
+![description](../images/tool_example_4_.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_4_.jpg) -->
 
@@ -69,7 +64,7 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
   <li>Try "SelBlockInstance" and "SelGroup" to make sure.</li>
 
-<input type="checkbox"> <b>My model is set to either Meters or Feet (not mm or in).</b><br>
+<input type="checkbox"> <b>My model is set to either Meters or Feet (not mm or in).</b> <br>
 
 <input type="checkbox"> <b>My model is free of overlapping, coplanar, or intersecting geometry.</b><br>
 
@@ -81,9 +76,7 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
 ### Sources, Calculations + Metrics
 <!--add text and/or images for any sources for you metrics, calculations & equations, assumptions and specific metric output-->
-
-<p>This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
+This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### Limitations & Context
 <!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
@@ -92,7 +85,6 @@ This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur
 
 ### Examples
 <!--add images and text to describe a use case below-->
-
 Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 

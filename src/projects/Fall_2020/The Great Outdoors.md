@@ -75,7 +75,28 @@ The activiites and walkability will help us to utilize the street spaces by pede
 ### What Did We Discover?
 
 At different population density area, the public space programs would be divided into five different types to meet our goal.
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20discover-01.png)
+
+Outdoor Performance
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%201.png)
+
+Outdoor Eating
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%202.png)
+
+Urban Roof Garden
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%203.png)
+
+
+Bar/ Barbeque Area
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%204.png)
+
+
+Dog Park
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/TYPE%205.png)
+
+
+
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20FIVE%20TYPES.png)
 
 ```
 “Through the computational design model, we have identified urban population density and public space numbers trends that allows the city

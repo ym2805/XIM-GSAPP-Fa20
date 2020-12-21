@@ -232,7 +232,7 @@ For the concluding text of your computational design model documentation, think 
 2. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
 
 
-***We challenge how the buildings and public shared spaces are planned and designed separatly. We would recommend the results of the model to the District Community Council. The public space for city-use should be included as an essential part of the architectural design. ***
+***We challenge how the buildings and public shared spaces are planned and designed separatly. We would recommend the results of the model to the District Community Council. The public space for city-use should be included as an essential part of the architectural design***
 
 
 ***To calculate the budget, the construction phases, and the influences to the existing urban context***

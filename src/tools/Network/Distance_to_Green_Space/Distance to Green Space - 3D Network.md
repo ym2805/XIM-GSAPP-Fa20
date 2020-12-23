@@ -1,5 +1,7 @@
 # Distance to Green Space - 3D Network
 
+Team: Fan Liu, Yuanming Ma, Tian Yao, Wanting Sun
+
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/XIM%20TOOL%20DIAGRAM-01.png)
 
 

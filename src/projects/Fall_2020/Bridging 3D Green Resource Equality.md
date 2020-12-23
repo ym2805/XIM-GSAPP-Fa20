@@ -100,7 +100,7 @@ that allows the neighborhood to address high density while achieving desirable g
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/XIM%20TOOL%20DIAGRAM-02.png)
 *Distance to green space are measured based on a 3D network.*
 
-Custom Tool Page [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/tools/Network/Distance_to_Green_Space/Distance%20to%20Green%20Space%20-%203D%20Network)
+Custom Tool Page [Link](https://github.com/ym2805/XIM-GSAPP-Fa20/blob/main/src/tools/Network/Distance_to_Green_Space/Distance%20to%20Green%20Space%20-%203D%20Network.md)
 
 #### Direct Sunlight Hours for Trees
 

@@ -1,5 +1,7 @@
 # Bridging 3D Green Resource Equality
 
+Team: Fan Liu, Yuanming Ma, Tian Yao, Wanting Sun
+
 **Using bridges as an add-on system together with other green space types to improve overall living conditions.**
 
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/B_scout_project%20image.jpg)

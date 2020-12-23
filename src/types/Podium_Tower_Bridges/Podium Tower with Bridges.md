@@ -1,5 +1,7 @@
 ### Podium Towers with Bridges
 
+Team: Fan Liu, Yuanming Ma, Tian Yao, Wanting Sun
+
 ![description](https://github.com/ym2805/XIM-GSAPP-Fa20/raw/main/src/images/Podium_Tower_Bridge_1.png) 
 
 ### Type Description
